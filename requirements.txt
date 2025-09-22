@@ -9,3 +9,4 @@ transformers
 torch
 huggingface_hub
 python-dotenv
+langchain-huggingface
