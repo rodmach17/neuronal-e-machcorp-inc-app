@@ -10,6 +10,7 @@ embedding_model = HuggingFaceEmbeddings(
 # Cargar índice FAISS (ya generado)
 vectorstore = FAISS.load_local("faiss_index", embedding_model, allow_dangerous_deserialization=True)
 
-def get_answer(query: str) -> str:
-    docs = vectorstore.similarity_search(query, k=1)
+# ✅ Nombre correcto de la función esperada por main.py
+def obtener_respuesta(pregunta: str) -> str:
+    docs = vectorstore.similarity_search(pregunta, k=1)
     return docs[0].page_content if docs else "No se encontró una respuesta relevante."
