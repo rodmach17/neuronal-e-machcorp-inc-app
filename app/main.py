@@ -1,66 +1,86 @@
-import os
-import openai
-from dotenv import load_dotenv
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
+from dotenv import load_dotenv
+import os
+from openai import OpenAI
 
-# 1. Cargar clave API desde el archivo .env
+# Cargar variables de entorno (.env)
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 
-# 2. Crear instancia de la app FastAPI
+# Inicializar cliente de OpenAI
+client = OpenAI(api_key=api_key)
+
+# Inicializar FastAPI
 app = FastAPI()
 
-# 3. Configuración de CORS
+# Middleware CORS (opcional)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Reemplaza con tu dominio si lo deseas
+    allow_origins=["*"],  # Reemplazar con tu dominio en producción
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# 4. Montar carpeta estática
+# Montar carpeta de archivos estáticos
 app.mount("/static", StaticFiles(directory="app/static"), name="static")
 
-# 5. Ruta principal que carga el index.html
+# Cargar contexto desde archivos .txt
+def cargar_contexto():
+    glosario_path = "data/glosario_final_para_indexar.txt"
+    preguntas_path = "data/Preguntas_Consejo_con_respuestas.txt"
+
+    contexto = ""
+    if os.path.exists(glosario_path):
+        with open(glosario_path, "r", encoding="utf-8") as f:
+            contexto += f.read() + "\n"
+
+    if os.path.exists(preguntas_path):
+        with open(preguntas_path, "r", encoding="utf-8") as f:
+            contexto += f.read() + "\n"
+
+    return contexto.strip()
+
+# Contexto cargado en memoria
+contexto_base = cargar_contexto()
+
 @app.get("/", response_class=HTMLResponse)
 async def serve_home():
-    try:
-        with open("app/static/index.html", "r", encoding="utf-8") as file:
-            html_content = file.read()
-        return HTMLResponse(content=html_content)
-    except FileNotFoundError:
-        return HTMLResponse(content="<h1>Error: index.html no encontrado</h1>", status_code=404)
+    """Carga la interfaz visual principal."""
+    with open("app/static/index.html", "r", encoding="utf-8") as f:
+        return HTMLResponse(content=f.read())
 
-# 6. Ruta para procesar preguntas
 @app.get("/preguntar")
 async def preguntar(pregunta: str):
-    if not pregunta or len(pregunta.strip()) < 3:
+    """Procesa la pregunta y responde con GPT-4 Turbo contextualizado."""
+    if not pregunta:
         return JSONResponse(content={"respuesta": "Por favor escribe una pregunta válida."})
 
     try:
-        respuesta = await consultar_openai_gpt4(pregunta)
+        response = client.chat.completions.create(
+            model="gpt-4-1106-preview",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "Eres un asistente experto en neurocirugía. Responde con base en el siguiente contexto proporcionado por el usuario:\n\n" + contexto_base
+                },
+                {
+                    "role": "user",
+                    "content": pregunta
+                }
+            ],
+            max_tokens=1000,
+            temperature=0.3
+        )
+        respuesta = response.choices[0].message.content.strip()
         return JSONResponse(content={"respuesta": respuesta})
     except Exception as e:
-        return JSONResponse(content={"respuesta": f"Ocurrió un error: {str(e)}"})
+        return JSONResponse(content={"respuesta": f"Error al procesar la pregunta: {str(e)}"})
 
-# 7. Ruta de verificación de estado
 @app.get("/status")
 async def status():
-    return {"message": "🧠 Red Neuronal Consejo de Neurocirugía funcionando correctamente con GPT-4 Turbo."}
-
-# 8. Función que consulta a la API de OpenAI
-async def consultar_openai_gpt4(pregunta: str) -> str:
-    respuesta = openai.ChatCompletion.create(
-        model="gpt-4-turbo",
-        messages=[
-            {"role": "system", "content": "Eres un neurocirujano experto entrenado para responder preguntas del examen de consejo de neurocirugía en México. Sé preciso, profesional y directo."},
-            {"role": "user", "content": pregunta}
-        ],
-        temperature=0.3,
-        max_tokens=800
-    )
-    return respuesta.choices[0].message['content'].strip()
+    """Verifica si la API está en línea."""
+    return {"message": "Red Neuronal del Consejo de Neurocirugía funcionando correctamente."}
