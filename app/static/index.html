@@ -1,73 +1,123 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Asistente de Neurocirugía</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: linear-gradient(145deg, #1e3c72, #2a5298);
-      color: white;
-      text-align: center;
-      padding: 2rem;
-    }
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 1.5rem;
-    }
-    #respuesta {
-      margin-top: 2rem;
-      padding: 1rem;
-      border-radius: 10px;
-      background-color: #2e4d7b;
-      white-space: pre-wrap;
-    }
-    input[type="text"] {
-      padding: 0.8rem;
-      font-size: 1.1rem;
-      width: 60%;
-      border: none;
-      border-radius: 8px;
-      margin-right: 10px;
-    }
-    button {
-      padding: 0.8rem 1.5rem;
-      font-size: 1.1rem;
-      background-color: #00b894;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-    }
-    button:hover {
-      background-color: #019875;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>e-MachCorp-Inc | Asistente Inteligente de Neurocirugía</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background: linear-gradient(135deg, #0a0f1f, #001F3F);
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+            min-height: 100vh;
+        }
+
+        .logo {
+            max-width: 300px;
+            margin-bottom: 1rem;
+            filter: drop-shadow(0 0 10px #00cfff);
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 0.2rem;
+            color: #00cfff;
+            text-shadow: 1px 1px 8px #00cfff;
+        }
+
+        p {
+            font-size: 1rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            color: #cccccc;
+        }
+
+        .input-group {
+            display: flex;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 0.8rem;
+            font-size: 1rem;
+            border: none;
+            border-radius: 5px 0 0 5px;
+            outline: none;
+        }
+
+        button {
+            padding: 0.8rem 1.5rem;
+            background-color: #00cfff;
+            color: #000;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .respuesta {
+            margin-top: 2rem;
+            padding: 1rem;
+            background-color: #0d223a;
+            border-radius: 8px;
+            max-width: 700px;
+            width: 100%;
+            word-wrap: break-word;
+            box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+        }
+
+        footer {
+            margin-top: auto;
+            padding: 1rem;
+            font-size: 0.8rem;
+            color: #666;
+        }
+    </style>
 </head>
 <body>
-  <h1>🧠 Asistente Inteligente de Neurocirugía</h1>
-  <div>
-    <input type="text" id="pregunta" placeholder="Escribe tu pregunta aquí..." />
-    <button onclick="consultar()">Preguntar</button>
-  </div>
-  <div id="respuesta">Esperando una pregunta...</div>
+    <img src="https://render.com/_next/image?url=%2Fstatic%2Flogo.png&w=384&q=75" alt="Logo e-MachCorp-Inc" class="logo" />
 
-  <script>
-    async function consultar() {
-      const pregunta = document.getElementById('pregunta').value;
-      const respuestaDiv = document.getElementById('respuesta');
-      respuestaDiv.textContent = 'Procesando...';
+    <h1>🧠 Asistente de Neurocirugía</h1>
+    <p>Impulsado por GPT-4 Turbo | Plataforma oficial de e-MachCorp-Inc</p>
 
-      try {
-        const res = await fetch(`/preguntar?pregunta=${encodeURIComponent(pregunta)}`);
-        const data = await res.json();
-        respuestaDiv.textContent = data.respuesta || 'Sin respuesta disponible.';
-      } catch (err) {
-        respuestaDiv.textContent = 'Error al conectar con el servidor.';
-        console.error(err);
-      }
-    }
-  </script>
+    <div class="input-group">
+        <input type="text" id="pregunta" placeholder="Ej. ¿Qué son los oligodendrocitos y cómo se relacionan con la mielina?" />
+        <button onclick="enviarPregunta()">Preguntar</button>
+    </div>
+
+    <div id="respuesta" class="respuesta" style="display:none;"></div>
+
+    <footer>
+        &copy; 2025 e-MachCorp-Inc · Proyecto de IA para certificación en neurocirugía · Todos los derechos reservados
+    </footer>
+
+    <script>
+        async function enviarPregunta() {
+            const pregunta = document.getElementById("pregunta").value.trim();
+            const respuestaDiv = document.getElementById("respuesta");
+
+            if (!pregunta) {
+                alert("Por favor ingresa una pregunta.");
+                return;
+            }
+
+            respuestaDiv.style.display = "block";
+            respuestaDiv.innerHTML = "⏳ Procesando pregunta...";
+
+            try {
+                const res = await fetch(`/preguntar?pregunta=${encodeURIComponent(pregunta)}`);
+                const data = await res.json();
+                respuestaDiv.innerHTML = `<strong>Respuesta:</strong><br>${data.respuesta}`;
+            } catch (error) {
+                respuestaDiv.innerHTML = "⚠️ Error al obtener respuesta del servidor.";
+            }
+        }
+    </script>
 </body>
 </html>
