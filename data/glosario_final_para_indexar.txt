@@ -1,0 +1,1137 @@
+🔢 Entrada: 01  
+📘 Término: Astrocitos  
+🧠 Bloque: Neuroanatomía – Células Gliales
+
+🧬 Definición:  
+Los **astrocitos** son las células gliales más abundantes del sistema nervioso central (SNC) y desempeñan funciones fundamentales en el mantenimiento de la homeostasis, el soporte estructural, la regulación sináptica y la respuesta a lesiones. Derivan del neuroectodermo y se caracterizan por su morfología estrellada, con múltiples prolongaciones que hacen contacto con neuronas, vasos sanguíneos y la piamadre, integrando la **unidad neurovascular**.
+🧰 Subtipos principales y funciones:  
+1. **Astrocitos protoplasmáticos**: localizados en la **sustancia gris**. Tienen numerosas prolongaciones cortas y ramificadas. Participan en:  
+   - Reciclaje de neurotransmisores (glutamato, GABA).  
+   - Regulación del microambiente extracelular (iones, pH).  
+   - Modulación de la actividad sináptica.  
+2. **Astrocitos fibrosos**: ubicados en la **sustancia blanca**. Poseen prolongaciones largas y escasamente ramificadas. Se asocian con:  
+   - Soporte estructural.  
+   - Formación de **cicatrices gliales** (gliósis) tras daño tisular.  
+📊 Clasificación funcional adicional:  
+- **Astrocitos vasculares**: rodean capilares, forman parte de la **barrera hematoencefálica** junto con pericitos y endotelio.  
+- **Astrocitos sinápticos**: regulan la liberación y recaptura de neurotransmisores; liberan **gliotransmisores** como D-serina y ATP.  
+- **Astrocitos metabólicos**: proporcionan soporte energético a neuronas vía lactato; regulan el metabolismo del glutamato y el potasio extracelular.  
+- **Astrocitos reactivos**: ante injuria, se hipertrofian, proliferan y secretan citoquinas. Forman barreras gliales que limitan el daño pero pueden interferir con regeneración axonal.  
+🧠 Astrocitos especializados en humanos:  
+- **Interlaminares**: presentes solo en primates; con prolongaciones largas que atraviesan capas corticales.  
+- **Varicosos**: con engrosamientos periódicos en sus prolongaciones; funciones aún en investigación.  
+🔬 Desarrollo embrionario:  
+Derivan del **neuroectodermo**, a partir de células progenitoras gliales radiales. La transición a astrocito maduro está regulada por factores como **NFIA**, **STAT3**, **SOX9**.
+🧪 Marcadores inmunohistoquímicos:  
+- **GFAP (glial fibrillary acidic protein)** – clásico y ampliamente usado.  
+- **S100β**, **vimentina**, **ALDH1L1**, **AQP4** (especialmente en membrana perivascular).  
+📉 Relevancia clínica:  
+- Tumores derivados: **astrocitomas** (difuso, pilocítico, anaplásico, glioblastoma). Clasificación OMS 2021 integra criterios moleculares (IDH, ATRX, TP53).  
+- Rol en enfermedades neurodegenerativas y epilepsia: alteraciones en el metabolismo glutamatérgico y disfunción de AQP4 pueden contribuir a la hiperexcitabilidad y edema cerebral.  
+- En trauma y neuroinflamación: participan en la reparación tisular pero también pueden exacerbar el daño secundario.
+🧠 Correlación quirúrgica:  
+- En resecciones de gliomas, distinguir entre astrocitos reactivos y neoplásicos puede requerir marcadores moleculares y técnicas avanzadas.  
+- Preservar zonas con astrocitos funcionales en regiones elocuentes es clave para evitar déficits neurológicos postquirúrgicos.  
+📖 Bibliografía clave:  
+- Kandel et al., *Principles of Neural Science*.  
+- Greenfield’s Neuropathology, 9th Ed.  
+- WHO Classification of CNS Tumors, 2021.  
+- Neuroglia (Kettenmann & Ransom).  
+- PubMed – "astrocytes gliotransmission", "reactive astrocytes CNS pathology".  
+🔍 Posibles preguntas tipo Consejo:  
+❓**¿Qué marcador inmunohistoquímico es más útil para identificar astrocitos maduros?**  
+✅ GFAP.  
+❓**¿Cuál es la función de los astrocitos en la barrera hematoencefálica?**  
+✅ Regulan el paso de sustancias entre la sangre y el SNC mediante sus pies perivasculares.  
+❓**¿Qué tipo de astrocito predomina en la sustancia blanca y qué función cumple?**  
+✅ El astrocito fibroso, que brinda soporte estructural.  
+❓**¿Qué gliotransmisor liberan los astrocitos que modula la actividad sináptica?**  
+✅ D-serina.  
+🔎 Palabras clave: astrocitos, GFAP, gliosis, barrera hematoencefálica, gliotransmisión, neuroglía, SNC
+---
+🔢 Entrada: 02
+📘 Término: Oligodendrocitos
+🧬 Definición:
+Los oligodendrocitos son células gliales especializadas del sistema nervioso central (SNC), encargadas de la formación, mantenimiento y reparación de la mielina, una vaina lipídica que rodea los axones neuronales para acelerar la conducción del impulso nervioso mediante conducción saltatoria. Son el análogo funcional de las células de Schwann en el sistema nervioso periférico (SNP), aunque con diferencias estructurales clave: un solo oligodendrocito puede mielinizar múltiples axones simultáneamente.
+🧰 Funciones principales:
+- Mielinización de múltiples segmentos axonales en el SNC.
+- Aceleración de la conducción eléctrica por conducción saltatoria.
+- Soporte trófico y metabólico a axones mediante suministro de lactato, piruvato y otras moléculas energéticas.
+- Modulación de la plasticidad sináptica, la homeostasis del entorno extracelular y la arquitectura axoglial.
+- Participación en la neuroreparación post-lesión a través de activación de progenitores (OPCs).
+🔬 Clasificación y tipos:
+1. Oligodendrocitos mielinizantes:
+   - Ubicados predominantemente en sustancia blanca.
+   - Envían múltiples prolongaciones que envuelven segmentos axonales.
+   - Producen proteínas clave de la mielina como MBP, MOG y PLP.
+2. Oligodendrocitos satélite (perineuronales):
+   - Localizados en la sustancia gris, no mielinizan.
+   - Ejercen funciones tróficas y regulación del microambiente sináptico.
+3. Precursores de oligodendrocitos (OPCs):
+   - Células madre gliales con capacidad de diferenciarse.
+   - Persisten en el SNC adulto y se activan en procesos de remielinización.
+🧠 Desarrollo embrionario y origen:
+Los oligodendrocitos derivan del neuroectodermo, concretamente de progenitores neuroepiteliales del tubo neural. Su diferenciación es regulada por factores de transcripción como Olig1, Olig2, Sox10, y Nkx2.2, así como por señales inductoras del entorno mesodérmico y notocordal.
+🧪 Marcadores inmunohistoquímicos clave:
+- MBP (Myelin Basic Protein)
+- MOG (Myelin Oligodendrocyte Glycoprotein)
+- PLP1 (Proteolipid Protein)
+- Olig2, NG2, Sox10
+📉 Relevancia clínica:
+- Esclerosis múltiple (EM): enfermedad autoinmune donde linfocitos T atacan la mielina del SNC. Causa desmielinización, degeneración axonal y disfunción neurológica.
+- Leucodistrofias: enfermedades genéticas como la enfermedad de Krabbe, adrenoleucodistrofia o síndrome de Pelizaeus-Merzbacher, causan defectos en la síntesis/reciclaje de componentes mielínicos.
+- Remielinización: proceso crítico para la recuperación post-lesión, depende de la activación de OPCs y su diferenciación en oligodendrocitos maduros.
+- Gliomas oligodendrogliales: neoplasias originadas en oligodendrocitos. Marcadores genéticos importantes incluyen 1p/19q codeletion, IDH-1 mutación y ATRX preservado.
+🧠 Correlación quirúrgica y neurofisiológica:
+- La integridad de los tractos mielinizados (como el tracto corticoespinal) es crítica durante procedimientos neuroquirúrgicos que impliquen sustancia blanca profunda.
+- Lesiones quirúrgicas que alteran la mielina afectan la conducción saltatoria, generando déficit motor o sensitivo.
+- La visualización intraoperatoria con técnicas como tractografía por tensor de difusión (DTI) permite preservar fibras mielinizadas clave.
+🧪 Neurofisiología molecular aplicada:
+- La interacción axón-glía es dinámica: axones largos requieren aporte metabólico continuo de oligodendrocitos (monocarriers de lactato).
+- La mielina es más que aislante: participa en transducción de señales, control de nodulos de Ranvier, y organización axonal.
+- Alteraciones en canales iónicos nodales, proteínas de adhesión axoglial y mecanismos autofágicos pueden condicionar degeneración desmielinizante.
+📖 Bibliografía clave:
+- Kandel et al., Principles of Neural Science.
+- Greenfield’s Neuropathology.
+- WHO Classification of CNS Tumors, 5th ed.
+- Guyton & Hall, Fisiología Médica.
+- JNS, PubMed, Radiopaedia – artículos sobre mielinización, EM y oligodendrogliomas.
+🔍 Posibles preguntas tipo Consejo:
+❓ ¿Cuál es la principal función de los oligodendrocitos mielinizantes?
+✅ Formar y mantener vainas de mielina alrededor de múltiples axones en el SNC.
+❓ ¿Qué marcador molecular se utiliza para identificar oligodendrocitos en estudios histológicos?
+✅ MBP (Myelin Basic Protein), MOG, Olig2.
+❓ ¿Cuál es la característica genética distintiva de los oligodendrogliomas clásicos?
+✅ Codeleción 1p/19q con mutación IDH1.
+❓ ¿Qué diferencia principal existe entre oligodendrocitos y células de Schwann?
+✅ Los oligodendrocitos mielinizan múltiples axones, las células de Schwann solo uno.
+❓ ¿Qué consecuencias clínicas conlleva la pérdida de mielina en el SNC?
+✅ Disminución de la conducción saltatoria, deterioro funcional, como ocurre en la esclerosis múltiple.
+🔎 Palabras clave:
+oligodendrocitos, mielina, conducción saltatoria, MBP, MOG, esclerosis múltiple, OPCs, 1p/19q, neuroectodermo
+🔢 Entrada: 03
+📘 Término: Microglía
+La microglía es la principal célula inmunitaria residente del sistema nervioso central (SNC), representando entre el 5–20% del total de células gliales. A diferencia del resto de las glías que derivan del neuroectodermo, la microglía es de origen mesodérmico, específicamente del saco vitelino embrionario, migrando al SNC antes del cierre de la barrera hematoencefálica. Es crucial para la vigilancia inmunológica, la modulación sináptica, y la respuesta a daño tisular o infecciones.
+- 🧼 Fagocitosis de detritos celulares, sinapsis inactivas y cuerpos apoptóticos.
+- 🛡️ Defensa inmunológica innata: actúan como macrófagos residentes del SNC.
+- 🧠 Poda sináptica y sinaptogénesis durante el desarrollo y plasticidad neuronal.
+- 💊 Modulación de la inflamación: secretan citoquinas como TNF-α, IL-1β, IL-6.
+- 🧬 Presentación antigénica: limitada pero importante en procesos inflamatorios crónicos.
+🔬 Estados funcionales:
+1. Microglía en reposo: morfología ramificada, patrullaje constante del entorno neuronal.
+2. Microglía activada: cambia a morfología ameboide, y se clasifica en:
+   - 🟥 M1 (proinflamatoria): secreta IL-1β, TNF-α, óxido nítrico, especies reactivas de oxígeno (ROS).
+   - 🟩 M2 (antiinflamatoria): secreta IL-10, TGF-β; participa en resolución de la inflamación y reparación.
+La microglía no proviene del tubo neural, sino de precursores mesodérmicos del saco vitelino, que migran al SNC entre las semanas 4–5 de gestación. Esta migración temprana permite su colonización antes del cierre de la barrera hematoencefálica, diferenciándose en microglía madura gracias a factores como PU.1 y IRF8.
+🧪 Marcadores inmunohistoquímicos:
+- Iba1 (ionized calcium binding adaptor molecule 1)
+- CD11b, CD68 (fagocítica),
+- TMEM119 (específico de microglía),
+- P2RY12, TREM2
+- En patología, la expresión de HLA-DR indica activación microglial.
+- 🔥 Neurodegeneración: la microglía es clave en la patogénesis de Alzheimer (depósitos de β-amiloide), Parkinson, esclerosis múltiple, Huntington, gliomas, entre otros.
+- ⚠️ Neurotoxicidad: su activación crónica (M1) favorece daño neuronal.
+- 🧩 Autismo y esquizofrenia: disfunción microglial en desarrollo sináptico temprano.
+- 💉 Blanco terapéutico: se investiga su modulación para reducir neuroinflamación en el SNC.
+🧠 Aportes desde el curso (transcripciones):
+✅ Se menciona que en tumores como el glioblastoma, se observa abundante infiltrado microglial, y que la microglía puede facilitar la progresión tumoral si se encuentra en fenotipo M2.
+✅ En infecciones como abscesos o encefalitis, la microglía es la primera línea de defensa, liberando citoquinas proinflamatorias.
+✅ En enfermedades desmielinizantes como esclerosis múltiple, participa en la eliminación de mielina dañada y modula la respuesta inflamatoria.
+✅ En el contexto post-quirúrgico, se advierte que la activación microglial prolongada puede interferir con la neuroplasticidad y recuperación funcional.
+✅ En biopsias, la microglía puede confundirse con células tumorales, por lo que su identificación con TMEM119 o P2RY12 puede ser clave para el diagnóstico diferencial.
+- Kandel et al., Principles of Neural Science
+- Greenfield’s Neuropathology
+- WHO Classification of CNS Tumors, 2021
+- Nature Reviews Neuroscience – "Microglia & Inflammation"
+- PubMed – "microglia activation CNS", "microglial plasticity", "glioma-associated microglia"
+❓¿Cuál es el origen embriológico de la microglía?
+✅ Deriva del mesodermo, específicamente del saco vitelino.
+❓¿Qué marcador inmunohistoquímico es específico de microglía en SNC sano?
+✅ TMEM119.
+❓¿Qué citoquinas caracterizan a la microglía proinflamatoria (M1)?
+✅ IL-1β, TNF-α y ROS.
+❓¿Qué rol cumple la microglía en la enfermedad de Alzheimer?
+✅ Participa en la respuesta inflamatoria a placas de β-amiloide, contribuyendo al daño neuronal.
+❓¿Qué riesgo implica una microglía activada crónicamente?
+✅ Puede inducir neurotoxicidad, sinapsis aberrante y progresión de enfermedades neurodegenerativas.
+🔎 Palabras clave: microglía, fagocitosis, inflamación, vigilancia inmunológica, Iba1, M1/M2, TMEM119, glioma, neuroinmunología
+🔢 Entrada: 04
+📘 Término: Células ependimarias
+Las **células ependimarias** son células gliales especializadas que recubren el sistema ventricular encefálico y el conducto central de la médula espinal. Forman una interfaz funcional entre el líquido cefalorraquídeo (LCR) y el parénquima cerebral, participando activamente en la circulación del LCR, el mantenimiento del microambiente neuroquímico y, en zonas específicas, en la neurogénesis del adulto.
+🔍 Derivan del **neuroectodermo**, como el resto de las células gliales (excepto la microglía), y se originan del epitelio neuroepitelial del tubo neural durante el desarrollo embrionario.
+🧰 Subtipos y funciones principales:
+1. **Ependimocitos**
+   - Células cilíndricas ciliadas que tapizan el sistema ventricular.
+   - Facilitan la circulación del LCR gracias a sus cilios móviles.
+   - Participan en la regulación iónica y de metabolitos entre el LCR y el parénquima.
+2. **Tanicitos**
+   - Localizados en el piso del tercer ventrículo, particularmente en la eminencia media.
+   - Tienen prolongaciones largas que alcanzan capilares sanguíneos, regulando el transporte de señales neuroendocrinas entre el hipotálamo y el LCR.
+   - Relacionados con el control del apetito, metabolismo energético y señalización hormonal.
+3. **Células madre ependimarias (glía radial adulta)**
+   - Ubicadas en nichos neurogénicos como la zona subventricular (ZSV) y la zona subgranular del hipocampo.
+   - Conservan la capacidad de proliferar y diferenciarse en nuevas neuronas y células gliales.
+- **GFAP**, **Vimentina**, **S100**, **CD133**, **Nestina** (marcador de progenitores neurales), **FoxJ1** (asociado a cilios).
+- **Tumores derivados: Ependimomas**
+   - De origen neuroectodérmico, suelen localizarse en el cuarto ventrículo en niños y en la médula espinal en adultos.
+   - Clasificación OMS: clásico, anaplásico, mixopapilar, subependimoma.
+   - Requieren abordajes neuroquirúrgicos precisos por su localización cercana a estructuras vitales.
+- **Hidrocefalia:**
+   - Alteraciones inflamatorias, hemorrágicas o tumorales del epitelio ependimario pueden interrumpir el flujo del LCR.
+   - En neonatos, la hemorragia intraventricular puede causar estenosis del acueducto de Silvio.
+- **Terapia regenerativa:**
+   - Se exploran como fuente de células madre para restauración funcional en lesiones del SNC.
+🧠 Correlación quirúrgica:
+- En procedimientos transventriculares (e.g., resección de ependimomas o colocación de catéteres ventriculares), debe preservarse la integridad del epitelio ependimario para evitar fístulas, infecciones o estenosis.
+- Lesiones en áreas como el acueducto de Silvio requieren planeación precisa por el riesgo de hidrocefalia obstructiva.
+- Kandel et al., *Principles of Neural Science*.
+- WHO Classification of CNS Tumors, 2021.
+- Netter, *Atlas of Human Anatomy*.
+- Afifi & Bergman, *Functional Neuroanatomy*.
+- PubMed: “ependymal cells neurogenesis”, “ependymoma pathology”, “hypothalamic tanycytes”.
+- Clases transcritas del curso de neuropatología – Módulo de ependimomas .
+🔍 Palabras clave: ependimocitos, tanicitos, neurogénesis, LCR, ependimoma, hidrocefalia, neuroectodermo
+🔎 Posibles preguntas tipo Consejo:
+❓ ¿Cuál es el subtipo celular responsable del transporte neuroendocrino entre el LCR y el hipotálamo?
+✅ Los **tanicitos**, que se localizan en la eminencia media del tercer ventrículo.
+❓ ¿Qué tumor neuroectodérmico se origina en células ependimarias y dónde se localiza típicamente en adultos?
+✅ El **ependimoma**, con localización preferente en la **médula espinal** en adultos.
+❓ ¿Qué estructura revisten los ependimocitos y qué función cumplen sus cilios?
+✅ Revisten los **ventrículos cerebrales** y **facilitan la circulación del LCR** mediante el movimiento ciliar.
+❓ ¿Qué marcador molecular indica la presencia de progenitores neuronales en células ependimarias?
+✅ **Nestina**, presente en células madre ependimarias.
+❓ ¿Qué complicación neonatal puede derivar de una hemorragia intraventricular que daña el epitelio ependimario?
+✅ **Hidrocefalia comunicante** o **obstructiva**, por estenosis del acueducto de Silvio.
+🔢 Entrada: 05  
+📘 Término: Células de Schwann  
+🧠 Bloque: Neuroanatomía – Células Gliales Periféricas  
+Las **células de Schwann** son las células gliales del sistema nervioso periférico (SNP) encargadas de formar la **vaina de mielina** alrededor de los axones periféricos. Derivan de la **cresta neural** y son análogas funcionalmente a los oligodendrocitos del sistema nervioso central (SNC), aunque con diferencias clave estructurales y regenerativas. Su función es esencial para la **conducción saltatoria del impulso nervioso**, el **soporte trófico**, la **regeneración axonal** y la **modulación inmunológica** tras lesión.
+1. **Células de Schwann mielinizantes**:  
+   - Rodean un solo axón de gran calibre formando **vaina de mielina segmentada**.  
+   - Aumentan la velocidad de conducción mediante **conducción saltatoria** (nódulos de Ranvier).  
+2. **Células de Schwann no mielinizantes (de Remak)**:  
+   - Envolver múltiples axones de pequeño diámetro **sin formar mielina**.  
+   - Proveen soporte metabólico y protección estructural.
+🔬 Características celulares y funcionales:  
+- Alta capacidad de **plasticidad fenotípica**: tras lesión pueden desdiferenciarse, proliferar y guiar la regeneración axonal.  
+- Secretan **neurotrofinas** (NGF, BDNF, GDNF) para promover la supervivencia neuronal.  
+- Participan en la **fagocitosis de mielina degenerada** y coordinación de la **respuesta inmune local**.  
+- **Forman bandas de Büngner** durante la regeneración del nervio, facilitando la orientación de axones regenerantes.
+🧠 Diferencias clave vs oligodendrocitos:  
+| Característica              | Célula de Schwann         | Oligodendrocito               |
+|----------------------------|---------------------------|-------------------------------|
+| Localización               | SNP                       | SNC                           |
+| Mielinización              | 1 axón por célula         | Varios axones por célula      |
+| Capacidad regenerativa     | Alta                      | Muy limitada                  |
+| Origen embriológico        | Cresta neural             | Neuroectodermo                |
+| Marcador inmunohistoquímico| S100, SOX10, p75NTR       | Olig2, MOG, MBP               |
+🧬 Desarrollo embrionario:  
+Se originan a partir de células de la **cresta neural** migratoria. La diferenciación hacia célula de Schwann mielinizante o no mielinizante está regulada por señales como **Neuregulina-1**, y transcripción génica mediada por **SOX10**, **Oct6** y **Krox20**.
+- **S100β**: clásico, citoplasmático y nuclear.  
+- **SOX10**: factor de transcripción clave en diferenciación glial.  
+- **p75NTR**: receptor de neurotrofinas, presente en estados inmaduros o desdiferenciados.  
+- **MBP**, **P0**, **Krox20**: asociados a mielinización activa.  
+- Tumores derivados: **Schwannomas** (benignos, encapsulados), **neurofibromas**, **MPNST** (sarcomas malignos periféricos).  
+- Enfermedades desmielinizantes del SNP: **Síndrome de Guillain-Barré**, **CIDP** (Polineuropatía Inflamatoria Desmielinizante Crónica).  
+- Daño nervioso periférico: en neuropatías traumáticas, tóxicas, metabólicas (diabetes), las células de Schwann median la reparación.  
+- En neurocirugía: su respuesta regenerativa es clave tras resección de tumores periféricos o reparación de nervios craneales.  
+- Greenfield’s Neuropathology.  
+- WHO Classification of Tumors of the Peripheral Nervous System (2020).  
+- PubMed – "Schwann cell regeneration", "myelin repair PNS", "SOX10 S100 Schwannoma".  
+- Transcripción clase 6.1: menciona su capacidad regenerativa y función en trauma.  
+- Transcripción clase 7.1: menciona su rol en MPNST y diferenciación tumoral.
+❓ ¿De dónde derivan embriológicamente las células de Schwann?  
+✅ De la **cresta neural**.  
+❓ ¿Qué marcador inmunohistoquímico distingue células de Schwann activas o regenerativas?  
+✅ **SOX10** y **p75NTR**.  
+❓ ¿Qué tipo celular forma la mielina del nervio periférico?  
+✅ Célula de Schwann mielinizante.  
+❓ ¿Cuál es la principal diferencia entre un Schwannoma y un neurofibroma?  
+✅ El Schwannoma es **encapsulado** y compuesto casi exclusivamente por células de Schwann, mientras que el neurofibroma es **no encapsulado** y contiene múltiples tipos celulares.  
+🔎 Palabras clave: Schwann, mielina periférica, SOX10, neurofibromas, regeneración nerviosa, p75NTR, Guillain-Barré, Schwannoma.
+🔢 Entrada: 06  
+📘 Término: Células satélite (ganglios periféricos)  
+🧠 Bloque: Neuroanatomía – Células Gliales Periféricas
+Las células satélite gliales son células del sistema nervioso periférico que rodean a los cuerpos neuronales dentro de los ganglios sensoriales y autónomos (como los ganglios espinales y simpáticos). Son homólogas funcionales a los astrocitos del SNC, pero con diferencias estructurales y embriológicas. Participan activamente en la homeostasis iónica, protección neuronal, señalización nociceptiva y reparación tras daño.
+🧰 Funciones principales:  
+- Regulación del microambiente extracelular (K⁺, pH, neurotransmisores).  
+- Barrera física y bioquímica entre la neurona y el intersticio ganglionar.  
+- Señalización intercelular mediante receptores de purinas (P2X, P2Y).  
+- Amplificación de señales nociceptivas crónicas (dolor neuropático).  
+- Modulación de la inflamación y respuesta inmunitaria periférica.  
+- Reparación axonal postlesión (a través de mecanismos paracrinos y exosomas).
+🔬 Ubicación anatómica clave:  
+- Ganglios espinales dorsales (sensitivos).  
+- Ganglios simpáticos y parasimpáticos (autónomos).  
+- Ganglios trigémino, geniculado, nodoso, plexos viscerales.
+🧠 Desarrollo embrionario:  
+Derivan de la cresta neural, al igual que las células de Schwann. Su diferenciación está regulada por factores como Sox10, ErbB3 y Notch.
+- S100β (más común).  
+- GFAP (en células activadas).  
+- Glutamina sintetasa (GS).  
+- Kir4.1 (canales de potasio).  
+- P2Y12, Cx43 (conexinas).
+📉 Relevancia clínica y quirúrgica:  
+- Dolor neuropático: hiperactividad de las células satélite se ha relacionado con dolor persistente tras lesiones nerviosas o compresión radicular.  
+- Neuromodulación: potenciales blancos terapéuticos para bloqueo del ganglio de Gasser, ganglio estrellado, plexos viscerales.  
+- Oncología: tumores de ganglios pueden presentar proliferación de células satélite (pseudoinfiltración glial).  
+- En neurocirugía funcional: comprensión de la dinámica satélite-neurona es clave en intervenciones para dolor crónico (como rizotomías o estimuladores de ganglio).
+- Purves et al., Neuroscience.  
+- Kettenmann & Ransom, Neuroglia.  
+- PubMed: "Satellite glial cells neuropathic pain"  
+- Journal of Neuroscience, Brain Research.
+❓ ¿De qué capa embrionaria derivan las células satélite?  
+✅ De la cresta neural, como otras células gliales del SNP.
+❓ ¿Qué función cumplen las células satélite en los ganglios dorsales?  
+✅ Regulan el ambiente iónico y modulan la señalización nociceptiva, protegiendo a la neurona sensorial.
+❓ ¿Cuál es el principal marcador inmunohistoquímico de las células satélite en ganglios?  
+✅ S100β, aunque también expresan glutamina sintetasa y Kir4.1.
+❓ ¿Qué importancia clínica tienen en neurocirugía?  
+✅ Participan en el dolor neuropático crónico, por lo que son blanco en terapias funcionales (bloqueos, estimuladores ganglionares).
+🔎 Palabras clave:  
+células satélite, ganglios periféricos, dolor neuropático, cresta neural, S100, Kir4.1, neuroglía periférica, neuromodulación, neuroinflamación
+🔢 Entrada: 07  
+📘 Término: Sustancia Gris y Sustancia Blanca  
+🧠 Bloque: Neuroanatomía – Organización Histológica del SNC
+🧬 Definición General:  
+El sistema nervioso central (SNC) se organiza histológicamente en **sustancia gris** y **sustancia blanca**, distinción basada en el predominio de cuerpos neuronales vs fibras mielínicas. Esta diferenciación refleja funciones distintas: procesamiento sináptico en la sustancia gris y transmisión rápida en la sustancia blanca.
+🔶 Sustancia Gris (SG)
+📍 Localización:
+- Superficial en **corteza cerebral** y **corteza cerebelosa**.
+- Profunda en núcleos subcorticales: ganglios basales, tálamo, núcleos talámicos, sustancia gris periacueductal, etc.
+- Médula espinal: dispuesta en forma de "H" en la porción central.
+🔬 Composición:
+- **Somata neuronales**
+- **Dendritas**
+- **Astrocitos protoplasmáticos**
+- Interneuronas
+- Capilares
+- Células gliales de soporte
+⚙️ Función:
+- Procesamiento sináptico local
+- Integración sensorial y motora
+- Generación de respuestas reflejas
+🧠 Relevancia quirúrgica:
+- Áreas elocuentes (e.g., área de Broca) están en sustancia gris cortical: **preservación crítica** en cirugía de gliomas.
+- SG periependimaria es asiento común de tumores neuroectodérmicos y ependimarios.
+🔷 Sustancia Blanca (SB)
+- Subyacente a la corteza cerebral y cerebelosa.
+- Periférica en médula espinal.
+- Tractos organizados en columnas (médula), cápsulas (cerebro) y pedúnculos (tronco encefálico).
+- **Axones mielinizados**
+- **Oligodendrocitos**
+- **Astrocitos fibrosos**
+- Tractos ascendentes y descendentes (fibras de proyección, asociación, comisurales)
+- Transmisión de señales neuronales de largo alcance
+- Conexión entre regiones corticales, subcorticales y periféricas
+🔍 Tinción histológica:
+- Tinción de Luxol Fast Blue: tiñe mielina (sustancia blanca).
+- Tinción de Nissl: resalta somas (sustancia gris).
+🧠 Relevancia clínica:
+- **Desmielinización**: Esclerosis Múltiple afecta SB.
+- **Gliomas de alto grado** suelen infiltrar SB dificultando resección completa.
+- **Disrupciones de SB** en imagen pueden indicar trauma difuso axonal (DAI), infartos lacunares o enfermedades metabólicas.
+Ambas estructuras derivan del **neuroectodermo**. La sustancia gris surge por migración radial de neuroblastos, mientras que la sustancia blanca se forma por la prolongación de axones mielinizados por oligodendrocitos en la periferia del tubo neural.
+- SG: NeuN (neuronas), MAP2 (dendritas), GFAP (astrocitos)
+- SB: MBP (proteína básica de mielina), Olig2 (oligodendrocitos)
+- Kandel et al., *Principles of Neural Science*  
+- Greenfield’s Neuropathology  
+- Netter, *Neuroanatomía Ilustrada*  
+- WHO CNS Tumor Classification 2021  
+- PubMed – “gray vs white matter pathology”, “mielinización SNC desarrollo”
+❓ ¿Qué tipo de célula glial predomina en la sustancia blanca?  
+✅ Oligodendrocitos (productores de mielina).
+❓ ¿Qué tinción histológica permite visualizar mejor la mielina?  
+✅ Luxol Fast Blue.
+❓ ¿Dónde se localiza la sustancia gris en la médula espinal?  
+✅ En el centro, en forma de mariposa o "H".
+❓ ¿Cuál es la relevancia de la sustancia blanca en el pronóstico quirúrgico de un glioma infiltrante?  
+✅ Su invasión impide resección total y se asocia a peor pronóstico.
+🔍 Palabras clave: sustancia gris, sustancia blanca, axones, cuerpos neuronales, oligodendrocitos, astrocitos, mielina, corteza, médula espinal, tracción, Luxol Fast Blue
+🔢 Entrada: 8  
+📘 Término: Barrera Hematoencefálica (BHE)  
+🧠 Bloque: Neuroanatomía – Estructuras de Protección y Regulación
+La barrera hematoencefálica (BHE) es una estructura altamente especializada que regula el intercambio de sustancias entre la sangre y el sistema nervioso central (SNC), manteniendo la homeostasis del microambiente neuronal. Su función principal es proteger al parénquima cerebral de toxinas, patógenos y fluctuaciones iónicas, al tiempo que permite el paso selectivo de nutrientes esenciales.
+🧱 Estructura:  
+La BHE está compuesta por una unidad neurovascular funcional, que incluye:  
+- Endotelio capilar cerebral no fenestrado, con uniones estrechas (tight junctions) compuestas por claudinas (claudina-5), occludina y ZO-1.  
+- Lámina basal compartida, rica en laminina, colágeno IV y heparán sulfato.  
+- Astrocitos perivasculares, que rodean el capilar con sus pies terminales; expresan AQP4, regulando el transporte de agua.  
+- Pericitos, que modulan la estabilidad vascular, el flujo sanguíneo y participan en la angiogénesis.  
+- Microglía, que colabora en la regulación inmune.
+🔬 Funciones:  
+- Transporte selectivo de glucosa (GLUT1), aminoácidos y otros nutrientes hacia el SNC.  
+- Exclusión de toxinas y patógenos (protección inmunológica).  
+- Mantenimiento del equilibrio iónico y del pH.  
+- Modulación neuroinmune mediante interacción con citocinas y células del sistema inmune.  
+- Soporte metabólico e intercambio neurovascular.
+🧠 Desarrollo y maduración:  
+Deriva del neuroectodermo, y su maduración ocurre postnatalmente, con regulación crítica por las señales de las células gliales (principalmente astrocitos) que inducen la expresión de proteínas de unión estrecha.
+📍 Regiones sin BHE (órganos circunventriculares):  
+- Área postrema  
+- Eminencia media  
+- Neurohipófisis  
+- Glándula pineal  
+- Órgano subfornical  
+- Órgano vascular de la lámina terminalis (OVLT)
+🧪 Evaluación clínica y experimental:  
+- Índice albúmina LCR/suero  
+- Azul de Evans (investigación preclínica)  
+- MRI con gadolinio (práctica clínica)  
+- Inmunomarcadores: GLUT1, ZO-1, AQP4
+- Infecciones del SNC (meningitis, encefalitis): aumentan la permeabilidad.  
+- Traumatismo craneoencefálico: favorece edema vasogénico.  
+- Enfermedades neurodegenerativas (Alzheimer, EM): presentan disfunción progresiva.  
+- Tumores cerebrales (gliomas): pueden alterar la BHE.  
+- Terapias dirigidas: apertura transitoria (ej. ultrasonido focalizado) para facilitar fármacos.
+- Interpretación crítica de realce con gadolinio en tumores.  
+- Zonas de BHE alterada no siempre reflejan el borde histológico real.  
+- Preservación de estructuras neurovasculares clave en cirugía oncológica y vascular.
+- Kandel et al., Principles of Neural Science  
+- WHO CNS Tumor Classification, 2021  
+- Radiopaedia – Blood-Brain Barrier  
+- PubMed – "blood-brain barrier integrity", "astrocyte tight junction signaling"  
+- Clases 7.1 y 7.2 del curso de neuropatología (transcripción cruzada)
+❓ Preguntas tipo Consejo:  
+- ¿Qué componente de la BHE regula el paso selectivo de moléculas y forma las tight junctions?  
+  ✅ Endotelio capilar cerebral con claudina-5 y ZO-1.
+- ¿Cuál es el principal transportador de glucosa a través de la BHE?  
+  ✅ GLUT1.
+- ¿Qué marcador se utiliza para estudiar histológicamente la BHE en relación con astrocitos?  
+  ✅ AQP4.
+- ¿En qué patologías se asocia disfunción progresiva de la BHE?  
+  ✅ Alzheimer y esclerosis múltiple.
+barrera hematoencefálica, BHE, tight junctions, claudina-5, AQP4, astrocitos, órganos circunventriculares, neuroinmunología, GLUT1, MRI con gadolinio
+🔢 Entrada: 08  
+🧠 Bloque: Neuroanatomía – Estructuras de Protección del SNC
+La **barrera hematoencefálica (BHE)** es una estructura altamente especializada que regula el intercambio de sustancias entre el sistema vascular y el sistema nervioso central (SNC). Su función principal es mantener la **homeostasis cerebral**, protegiendo al tejido neuronal de toxinas, patógenos y fluctuaciones químicas del plasma sanguíneo.
+🏗️ Estructura funcional:
+Está formada por tres componentes principales:
+1. **Endotelio capilar**: células endoteliales unidas por uniones estrechas (tight junctions).  
+2. **Lámina basal compartida**: matriz extracelular que rodea al endotelio.  
+3. **Pies perivasculares de astrocitos**: regulan la expresión de proteínas de transporte y modulan la permeabilidad.
+🔐 Características:
+- Baja permeabilidad paracelular (tight junctions).  
+- Altamente selectiva para sustancias hidrofóbicas y pequeñas.  
+- Presencia de transportadores activos (GLUT1, P-gp).  
+- Ausencia de fenestraciones (a diferencia del endotelio sistémico).
+⚙️ Funciones:
+- Protege al SNC de toxinas, virus, bacterias, fármacos no lipofílicos.  
+- Controla la entrada de nutrientes esenciales (glucosa, aminoácidos, etc.).  
+- Mantiene un microambiente iónico estable para la transmisión sináptica.  
+- Participa en el aclaramiento de desechos metabólicos (vía glinfática).
+🚨 Regiones con BHE incompleta ("órganos circunventriculares"):
+- Subfornical organ  
+Estas zonas permiten el monitoreo del medio interno y la secreción hormonal.
+- **Tumores**: La ruptura de la BHE permite el contraste en imágenes (T1 postgadolínio).  
+- **Infecciones**: Meningitis puede generar hiperpermeabilidad.  
+- **Enfermedades neurodegenerativas**: Disfunción progresiva de la BHE.  
+- **Tratamiento farmacológico**: Retos en administración de fármacos al SNC (uso de nanopartículas, vía intranasal, etc.).  
+- **Cirugía**: En neurocirugía oncológica, la alteración de la BHE orienta zonas de resección.
+🧪 Marcadores y técnicas:
+- ZO-1, claudina-5 (uniones estrechas)  
+- GLUT1 (transportador de glucosa)  
+- AQP4 (en astrocitos, asociada a pies perivasculares)  
+- Técnica de extravasación de azul de Evans o gadolinio en imágenes.
+🧠 Desarrollo embrionario:
+La BHE madura tardíamente durante el desarrollo fetal y está inducida por señales de los **astrocitos** y **pericitos** sobre el endotelio cerebral.
+- Abbott et al., *Nature Reviews Neuroscience*, "Structure and function of the blood–brain barrier"  
+- WHO CNS Tumor Classification 2021 (implicación en imágenes tumorales)  
+- PubMed – "blood-brain barrier permeability", "BBB in gliomas"
+❓ ¿Cuál es la principal célula que regula la permeabilidad de la BHE?  
+✅ El astrocito, mediante sus pies perivasculares.
+❓ ¿Qué transportador es clave para la entrada de glucosa al cerebro?  
+✅ GLUT1.
+❓ ¿Qué estructura permite la entrada de gadolinio en tumores cerebrales?  
+✅ Ruptura de la BHE.
+❓ ¿Por qué la neurohipófisis no tiene barrera hematoencefálica completa?  
+✅ Porque necesita liberar hormonas al torrente sanguíneo sin restricción.
+🔍 Palabras clave: BHE, barrera hematoencefálica, astrocitos, tight junctions, GLUT1, AQP4, gliomas, órganos circunventriculares
+🔢 Entrada: 09  
+📘 Término: Plexos coroideos y Barrera Hemato-LCR  
+Los **plexos coroideos** son estructuras vasculares especializadas localizadas en los ventrículos cerebrales, encargadas de la **producción del líquido cefalorraquídeo (LCR)**. Están compuestos por una red de capilares fenestrados, tejido conectivo y un epitelio ependimario modificado denominado **epitelio coroideo**.
+La **barrera hemato-LCR (BHLCR)** es una barrera selectiva que regula el paso de sustancias desde la sangre al LCR, siendo funcionalmente distinta pero complementaria a la **barrera hematoencefálica (BHE)**.
+🏗️ Estructura de los plexos:
+- Capilares fenestrados (sin tight junctions)  
+- Células epiteliales coroideas con uniones estrechas (tight junctions)  
+- Membrana basal  
+- Microvellosidades apicales  
+- Mitocondrias abundantes (alta actividad de transporte)
+💧 Función principal:
+- **Producción activa del LCR** (~500 mL/día) mediante transporte de iones y agua (a través de AQP1).  
+- Mantenimiento de la composición iónica del LCR.  
+- Participación en la eliminación de desechos, señalización neuroinmune y transporte de metabolitos.
+🚨 Barrera hemato-LCR:
+- Formada por las células epiteliales coroideas, NO por el endotelio vascular.  
+- Contiene transportadores selectivos para glucosa, aminoácidos, vitaminas.  
+- Permite un entorno protegido para el desarrollo cerebral, especialmente en etapas embrionarias.
+- **Papilomas y carcinomas de plexos coroideos**: neoplasias raras pero altamente vasculares, pueden causar hidrocefalia obstructiva.  
+- **Hidrocefalia comunicante**: alteración en la reabsorción o sobreproducción del LCR.  
+- **Infecciones**: es punto de entrada de patógenos en meningitis (especialmente en neonatos).  
+- **Tumores ventriculares**: el conocimiento anatómico del plexo coroideo es crucial en abordajes neuroquirúrgicos intraventriculares.
+🔬 Desarrollo embrionario:
+- Derivan del techo del tubo neural.  
+- El epitelio ependimario se especializa en zonas determinadas para formar los plexos coroideos.  
+- En el desarrollo fetal, la BHLCR tiene un papel más dominante que la BHE.
+🧪 Marcadores:
+- **Transtiretina (TTR)** – marcador de epitelio coroideo.  
+- **AQP1** – canal de agua abundante en la membrana apical.  
+- **Na⁺/K⁺-ATPasa**, **carbonicanhidras** – implicados en producción activa del LCR.
+- WHO CNS Tumor Classification 2021 – plexus tumors  
+- PubMed – "choroid plexus barrier", "transthyretin LCR", "CSF production"
+❓ ¿Qué célula forma la barrera hemato-LCR?  
+✅ El epitelio coroideo con tight junctions.
+❓ ¿Cuál es el principal canal de agua implicado en la producción del LCR?  
+✅ AQP1.
+❓ ¿Qué tumor se origina en los plexos y puede causar hidrocefalia?  
+✅ Papiloma de plexos coroideos.
+❓ ¿Qué proteína sintetiza el plexo y transporta tiroxina y retinol?  
+✅ Transtiretina.
+🔍 Palabras clave: plexos coroideos, LCR, barrera hemato-LCR, AQP1, transtiretina, papiloma coroideo, epitelio ependimario, hidrocefalia
+🔢 Entrada: 10  
+📘 Término: Sistema Ventricular del SNC  
+🧠 Bloque: Neuroanatomía – Estructuras de Protección y Circulación del LCR
+El **sistema ventricular** es un conjunto de cavidades interconectadas dentro del encéfalo, revestidas por epitelio ependimario y llenas de **líquido cefalorraquídeo (LCR)**. Su función principal es la producción, circulación y drenaje del LCR, así como la protección mecánica del sistema nervioso central y el mantenimiento del microambiente neuronal.
+🏗️ Componentes anatómicos:
+1. **Ventrículos laterales** (1º y 2º):  
+   - Presentes en cada hemisferio cerebral  
+   - Divididos en asta anterior (frontal), cuerpo, asta occipital y asta temporal  
+   - Comunican con el III ventrículo por el **foramen interventricular de Monro**
+2. **III ventrículo**:  
+   - Localizado en el diencéfalo (entre tálamos)  
+   - Comunica con el IV ventrículo a través del **acueducto de Silvio (cerebral)**
+3. **IV ventrículo**:  
+   - Entre el tronco encefálico (puente y bulbo) y el cerebelo  
+   - Se continúa caudalmente con el canal ependimario de la médula espinal  
+   - Comunica con el espacio subaracnoideo por:
+     - **Agujero de Magendie** (medial)
+     - **Agujeros de Luschka** (laterales)
+💧 Producción y circulación del LCR:
+- El **plexo coroideo**, especialmente en los ventrículos laterales y el III/IV ventrículo, produce ~500 mL/día  
+- Flujo: ventrículos laterales → III ventrículo → acueducto de Silvio → IV ventrículo → espacio subaracnoideo  
+- Reabsorción en **granulaciones aracnoideas** hacia senos venosos durales
+🔬 Funciones principales:
+- **Protección mecánica** del SNC (amortiguación)  
+- **Homeostasis iónica** y eliminación de metabolitos  
+- **Dispersión de neurohormonas**  
+- **Mantenimiento del volumen cerebral**  
+- Deriva de la luz del tubo neural primitivo  
+- Cada ventrículo se origina de una vesícula encefálica primaria (telencéfalo → ventrículos laterales; diencéfalo → III; mesencéfalo → acueducto de Silvio; rombencéfalo → IV)
+- **Hidrocefalia comunicante**: aumento del LCR por obstrucción en la reabsorción  
+- **Hidrocefalia no comunicante**: obstrucción intraventricular (e.g., estenosis del acueducto de Silvio)  
+- **Hemorragia intraventricular**, **quistes coloides** del III ventrículo, **ependimomas**  
+- Conocimiento anatómico esencial en **neuroendoscopía**, derivación ventrículo-peritoneal y cirugía intraventricular
+🧪 Marcadores en patología relacionada:
+- GFAP (ependimoma)  
+- Transtiretina (plexo coroideo)  
+- Ki-67 (proliferación tumoral)
+- WHO CNS Tumor Classification 2021 – Ependymal and Ventricular Tumors  
+- PubMed – “ventricular anatomy neurosurgery”, “CSF dynamics CNS”  
+- Radiopaedia – ventricular system and neuroimaging
+❓ ¿Qué estructura comunica el III ventrículo con el IV ventrículo?  
+✅ El acueducto de Silvio.
+❓ ¿Qué nombre recibe el orificio que comunica el IV ventrículo con el espacio subaracnoideo medial?  
+✅ Agujero de Magendie.
+❓ ¿Cuál es la causa más común de hidrocefalia no comunicante en neonatos?  
+✅ Estenosis del acueducto de Silvio.
+❓ ¿Cuál es la localización típica de los ependimomas en pediatría?  
+✅ IV ventrículo.
+🔍 Palabras clave: sistema ventricular, ventrículos cerebrales, LCR, acueducto de Silvio, hidrocefalia, ependimoma, neuroendoscopía
+🔢 Entrada: 11  
+📘 Término: Tálamo y Núcleos Talámicos  
+🧠 Bloque: Neuroanatomía Funcional del SNC – Diencéfalo
+El **tálamo** es una masa de sustancia gris localizada en el **diencéfalo**, que actúa como el principal **centro de relevo sensitivo y motor del encéfalo**, excepto para el sentido del olfato. Está compuesto por múltiples núcleos agrupados funcionalmente, los cuales mantienen conexiones bidireccionales con diversas áreas corticales, ganglios basales, cerebelo y sistema límbico.
+🏗️ Clasificación Anatómica y Funcional de los Núcleos Talámicos:
+1. **Grupo Anterior**  
+   - 🔹 Núcleo anterior, anterodorsal  
+   - Función: Circuito límbico (memoria, emoción)  
+   - Aferencia: cuerpos mamilares (tracto mamilotalámico)  
+   - Eferencia: giro cingulado  
+2. **Grupo Medial**  
+   - 🔹 Núcleo dorsomedial (DM)  
+   - Función: Cognición, emoción, motivación  
+   - Aferencia: amígdala, corteza prefrontal  
+   - Eferencia: corteza prefrontal  
+   - ✅ Pregunta frecuente en el Consejo: conexión bilateral con corteza prefrontal  
+3. **Grupo Lateral**  
+   - 🔹 Núcleo ventral anterior (VA) y ventral lateral (VL):  
+     - Relevo motor (corteza motora y cerebelo/ganglios basales)  
+   - 🔹 Núcleo ventral posterior lateral (VPL):  
+     - Relevo somatosensorial de tronco y extremidades  
+     - ✅ Pregunta frecuente: ¿Dónde llega el lemnisco espinal? → VPL  
+   - 🔹 Núcleo ventral posterior medial (VPM):  
+     - Relevo somatosensorial de cara (vía trigémino)  
+     - ✅ Pregunta frecuente: ¿Dónde llega el fascículo trigeminotalámico? → VPM  
+4. **Grupo Intralaminar**  
+   - 🔹 Núcleo centromediano y parafascicular  
+   - Función: modulación del estado de conciencia, atención y dolor  
+   - Proyecciones difusas a corteza y ganglios basales  
+5. **Núcleo Reticular Talámico**  
+   - Modula actividad de otros núcleos talámicos  
+   - No proyecta directamente a la corteza  
+   - Papel en ciclos sueño-vigilia  
+6. **Pulvinar**  
+   - Núcleo de asociación con lóbulos parietal, occipital y temporal  
+   - ✅ Pregunta Consejo: lesión → síndrome de negligencia  
+🔄 Funciones generales del tálamo:
+- Relevo sensorial (excepto olfato)  
+- Integración motora  
+- Procesamiento emocional y cognitivo  
+- Participación en estados de alerta, atención y conciencia  
+- Modulación del sueño  
+🧠 Correlación Clínica:  
+- **Síndrome Talámico de Déjerine-Roussy**: lesión del VPL posterior a un EVC → hemianestesia contralateral con dolor intenso crónico  
+- **Infartos talámicos**: pueden causar déficits motores, sensitivos, alteración del estado de alerta o memoria, dependiendo del núcleo afectado  
+📚 Bibliografía:  
+- Kandel et al., *Principles of Neural Science*, 6ª ed.  
+- Nolte J., *The Human Brain: An Introduction to its Functional Anatomy*, 7ª ed.  
+- Standring S., *Gray’s Anatomy*, 42ª ed.  
+- WHO Classification of CNS Tumors, 5ª ed. (2021)  
+- Radiopaedia: https://radiopaedia.org/articles/thalamus  
+📌 Temario Consejo relacionado:  
+- Tema 01: Neuroanatomía funcional del SNC  
+  - Subtema: Diencéfalo – Tálamo y sus núcleos  
+- Tema 06: Vías ascendentes sensitivas y motoras  
+  - Subtema: Lemnisco medial, espinotalámico, trigeminotalámico  
+- Tema 07: Conexiones talamocorticales y funciones superiores  
+🔎 Palabras clave para embeddings / red neuronal:  
+tálamo, núcleos talámicos, VPL, VPM, dorsomedial, diencéfalo, mamilotalámico, lemnisco medial, núcleo anterior, síndrome talámico, vías talamocorticales
+💡 Tip tipo Consejo:  
+- **“L” de VPL = Lemnisco = Tronco y extremidades**  
+- **“M” de VPM = Mandíbula = Cara**  
+- **Pulvinar = Negligencia**  
+- **Dorsomedial = Corteza Prefrontal**  
+🔢 Entrada: 12  
+📘 Término: Hipotálamo y Funciones Hipotalámicas  
+El **hipotálamo** es una estructura del diencéfalo ubicada por debajo del tálamo, que rodea el tercer ventrículo y forma parte del piso del mismo. Es el principal **centro regulador neuroendocrino y autonómico** del organismo, conectando el sistema nervioso con el sistema endocrino a través del eje hipotálamo-hipófisis.
+📌 División Anatómica:  
+Se organiza en **grupos de núcleos** que se agrupan de forma **longitudinal (regiones)** y **medio-lateral (zonas)**:
+- 🔹 **Región preóptica** (anterior al quiasma óptico)  
+- 🔹 **Región anterior / supraóptica** (sobre el quiasma)  
+- 🔹 **Región media / tuberal** (al nivel de la eminencia media)  
+- 🔹 **Región posterior / mamilar** (cuerpos mamilares)
+- 🔸 **Zona lateral**: conecta con sistema límbico y tallo cerebral  
+- 🔸 **Zona medial**: contiene la mayoría de los núcleos funcionales  
+- 🔸 **Zona periventricular**: reguladora hormonal
+🏗️ Núcleos Hipotalámicos Principales:
+| Región        | Núcleo                        | Función Principal                                         |
+|---------------|-------------------------------|-----------------------------------------------------------|
+| Preóptica     | Preóptico lateral             | Regulación sexual, ciclos circadianos                     |
+| Anterior      | Supraóptico / Paraventricular | Síntesis de ADH (vasopresina) y oxitocina                |
+|               | Anterior                      | Control de temperatura (disipación, sudoración)          |
+|               | Supraquiasmático              | Ritmo circadiano (reloj biológico)                        |
+| Media         | Arqueado (infundibular)       | Hormonas liberadoras e inhibidoras → adenohipófisis      |
+|               | Ventromedial                  | Saciedad – lesiones → hiperfagia                          |
+|               | Dorsomedial                   | Conducta emocional/agresividad                            |
+|               | Lateral                       | Centro del hambre – lesiones → anorexia                   |
+| Posterior     | Mamilares                     | Memoria y sistema límbico (vía mamilotalámica)            |
+|               | Posterior                     | Conservación del calor – lesiones → hipotermia           |
+🔁 Conexiones Importantes:
+- 🔸 **Eferencias**:
+  - Tracto mamilotalámico → tálamo anterior (circuito de Papez)
+  - Tracto mamilotegmental → formación reticular
+  - Fascículo prosencefálico medial → sistema límbico  
+    - ✅ Pregunta frecuente Consejo: conexión núcleos del Rafe ↔ hipotálamo
+- 🔸 **Aferencias**:
+  - Estría terminalis (amígdala → hipotálamo)
+  - Vía medial del prosencéfalo
+  - Retina → núcleo supraquiasmático
+🔬 Funciones Generales del Hipotálamo:
+1. Regulación del **sistema nervioso autónomo**
+2. Control de la **temperatura corporal**
+3. **Regulación del apetito y saciedad**
+4. **Balance hídrico y osmolaridad** (ADH)
+5. Regulación del **ritmo circadiano** (supraquiasmático)
+6. Control de la **reproducción y conducta sexual**
+7. Regulación del **sistema endocrino** vía hipófisis
+🧠 Correlación Clínica:
+- **Síndrome de Kallmann**: anosmia + hipogonadismo hipogonadotrófico (fallo migración GnRH)
+- **Síndrome de Prader-Willi**: disfunción del núcleo ventromedial → hiperfagia
+- **Lesión del hipotálamo lateral**: anorexia severa
+- **Lesión de cuerpos mamilares**: amnesia anterógrada (Síndrome de Korsakoff)
+- Nolte J., *The Human Brain*, 7ª ed.  
+- Radiopaedia.org – Hypothalamus anatomy and function  
+- WHO Classification of CNS Tumors, 2021  
+- Tema 01: Neuroanatomía Funcional  
+  - Subtema: Diencéfalo – Hipotálamo  
+- Tema 08: Neuroendocrinología y sistema neurovegetativo  
+hipotálamo, núcleos hipotalámicos, ADH, oxitocina, mamilotalámico, suprachiasmático, sistema límbico, núcleo ventromedial, hambre, saciedad, sistema neuroendocrino
+- "El centro del hambre está LATERAL, y la saciedad es VENTROMEDIAL"  
+- Núcleo SUPRAQUIASMÁTICO → ritmos circadianos = recibe aferencias de la retina  
+- Tracto MAMILOTALÁMICO → memoria y emociones (vía límbica)
+🔢 Entrada: 13  
+📘 Término: Neurohipófisis y Adenohipófisis (Hipófisis)  
+🧠 Bloque: Neuroendocrinología – Eje Hipotálamo-Hipófisis
+La **hipófisis** o **glándula pituitaria** es una estructura neuroendocrina ubicada en la **silla turca del hueso esfenoides**, unida al hipotálamo por el **tallo hipofisario**. Se divide en dos porciones con origen embriológico y funciones distintas:
+- **Adenohipófisis** (lóbulos anterior y tuberal): origen ectodérmico (bolsa de Rathke), endocrina clásica  
+- **Neurohipófisis** (lóbulos posterior e infundibular): origen neuroectodérmico, extensión del hipotálamo
+📍 Anatomía funcional:
+| Región        | Origen Embrionario | Tipo de secreción     | Hormonas principales     |
+|---------------|---------------------|------------------------|---------------------------|
+| Adenohipófisis| Bolsa de Rathke     | Endocrina indirecta (por señal hipotalámica) | ACTH, GH, PRL, TSH, FSH, LH |
+| Neurohipófisis| Neuroectodermo (diencéfalo) | Neurosecreción directa desde el hipotálamo | ADH (vasopresina), Oxitocina |
+🔗 **Eje Hipotálamo–Hipófisis**:
+1. **Neurohipófisis**:  
+   - No produce hormonas, sino que **almacena y libera** las que sintetizan los **núcleos supraóptico y paraventricular** del hipotálamo  
+   - Transportadas por axoplasma a través del **tracto supraópticohipofisario**  
+   - Hormonas:
+     - **ADH (vasopresina)** → reabsorción renal de agua (túbulos colectores, receptores V2)
+     - **Oxitocina** → contracción uterina y eyección de leche  
+2. **Adenohipófisis**:
+   - Estimulada por **hormonas liberadoras/inhibidoras** del hipotálamo (núcleo arcuato), a través del **sistema porta hipotalámico-hipofisario**
+   - Células especializadas:
+     - **Somatotropas** → GH
+     - **Lactotropas** → PRL
+     - **Corticotropas** → ACTH
+     - **Tirotropas** → TSH
+     - **Gonadotropas** → FSH, LH
+🧪 Regulación hormonal:
+- Circuito negativo clásico:
+  - Cortisol inhibe CRH y ACTH  
+  - T3/T4 inhiben TRH y TSH  
+  - Estrógenos/Testosterona inhiben GnRH, FSH/LH  
+  - Prolactina es inhibida por la dopamina  
+| Alteración                         | Hormona afectada     | Manifestación clínica                      |
+|----------------------------------|-----------------------|--------------------------------------------|
+| Diabetes insípida central        | ↓ ADH                | Poliuria, polidipsia, orina diluida        |
+| SIADH                            | ↑ ADH                | Hiponatremia, osmolaridad urinaria alta    |
+| Prolactinoma                     | ↑ PRL                | Galactorrea, amenorrea, infertilidad       |
+| Acromegalia                     | ↑ GH (adultos)       | Agrandamiento de manos, mandíbula, visceromegalia |
+| Enfermedad de Cushing           | ↑ ACTH               | Obesidad central, estrías, HTA, hiperglucemia |
+| Hipopituitarismo                | ↓ Todas              | Déficit hormonal múltiple, amenorrea, debilidad |
+📚 Bibliografía:
+- Costanzo L., *Physiology*, 6ª ed.  
+- Guyton & Hall, *Tratado de Fisiología Médica*, 14ª ed.  
+- Radiopaedia – Pituitary Gland Anatomy  
+- WHO Classification of Endocrine Tumors, 2022  
+📌 Temario Consejo relacionado:
+- Tema 08: Neuroendocrinología  
+  - Subtema: Eje Hipotálamo–Hipófisis  
+  - Subtema: Hormonas neurohipofisarias  
+  - Subtema: Patología hipofisaria y correlación clínica
+hipófisis, adenohipófisis, neurohipófisis, ADH, oxitocina, CRH, GH, TSH, ACTH, sistema porta hipotalámico, diabetes insípida, prolactinoma
+💡 Tip tipo Consejo:
+- **"ADH Ahuyenta Diuresis Hídrica"** → su ausencia produce poliuria  
+- Núcleo **SUPRAóptico** produce **ADH**, **PARAventricular** → **oxitocina**  
+- **ACTH estimula cortisol** y es suprimida por altos niveles de este  
+- En **hiperprolactinemia**, lo primero es **descartar efecto dopaminérgico**
+🔢 Entrada: 14  
+📘 Término: Lemnisco Medial y Trigeminotalámico  
+🧠 Bloque: Neuroanatomía – Vías Ascendentes del SNC
+El **lemnisco medial** y el **fascículo trigeminotalámico** son dos importantes vías ascendentes del sistema somatosensorial. Ambas transportan información epicrítica (tacto fino, vibración, propiocepción consciente), pero desde diferentes partes del cuerpo:  
+- El **lemnisco medial** proviene del cuerpo y extremidades.  
+- El **trigeminotalámico** proviene de la cara y cavidades craneales.
+🧪 Composición y Trayecto:
+### 🔹 Lemnisco Medial
+- **Origen**: Núcleos grácil y cuneiforme en el bulbo raquídeo.  
+- **Cruce**: Decusación de los lemniscos (fibras arcuatas internas).  
+- **Trayecto**: Bulbo → puente → mesencéfalo → tálamo (VPL).  
+- **Destino**: Giro postcentral (corteza somatosensorial primaria, área 3,1,2 de Brodmann).
+### 🔹 Fascículo Trigeminotalámico
+- **Origen**: Núcleo principal del trigémino (tacto) y núcleo espinal (dolor/temperatura).  
+- **Cruce**: Inmediatamente después del relevo en el tronco encefálico.  
+- **Destino**: Núcleo ventral posteromedial del tálamo (VPM) → corteza somatosensorial.
+🔍 Características clínicas:
+- **Lemnisco medial**: Lesión produce pérdida de tacto fino, vibración y propiocepción contralateral bajo la lesión.  
+- **Trigeminotalámico**: Lesión causa hipoestesia facial contralateral (según altura de la lesión).  
+- Las dos vías son parte de la **modalidad epicrítica**.
+🧪 Desarrollo embriológico:
+- Ambas vías derivan de **neuronas del neuroepitelio del tubo neural**.  
+- Neuronas de segundo orden se ubican en núcleos del bulbo (lemnisco) o tronco encefálico (trigémino).
+📘 ❓ Preguntas tipo Consejo relacionadas:
+**❓ Pregunta del examen 2024:**  
+> ¿Dónde hace relevo el fascículo trigeminotalámico?
+**✅ Respuesta Correcta:** Núcleo ventral posterior medial (VPM) del tálamo.
+🧬 **Justificación:**  
+El fascículo trigeminotalámico transmite sensibilidad de la cara y hace relevo final en el VPM, el cual proyecta a la corteza somatosensorial primaria. En contraste, el VPL recibe aferencias del cuerpo.
+📘 ❓ Otra pregunta típica:  
+> ¿Qué estructuras forman el lemnisco medial?
+**✅ Respuesta Correcta:** Núcleos grácil y cuneiforme (fibras arcuatas internas).
+Las neuronas de primer orden hacen sinapsis en los núcleos grácil (MI) y cuneiforme (MS). Luego cruzan la línea media como fibras arcuatas internas y ascienden como lemnisco medial.
+📚 Referencias bibliográficas:
+- Kandel, *Principles of Neural Science*, 6ª Ed.  
+- Standring, *Gray’s Anatomy*, 42ª Ed.  
+- Radiopaedia: Lemniscus medial pathway – https://radiopaedia.org  
+- Netter FH. Atlas de Anatomía Humana.
+🧩 Temario Consejo relacionado:
+Tema 01: Neuroanatomía funcional del SNC  
+Subtema: Vías ascendentes – Lemnisco medial y trigeminotalámico
+🔎 Palabras clave para embeddings / red neuronal:
+lemnisco medial, trigeminotalámico, relevo sensorial, VPL, VPM, núcleos grácil y cuneiforme, propiocepción, tractos ascendentes
+“**VPM** = **M** de **mandíbula** = cara”  
+“**VPL** = **L** de **limb** (extremidades) = cuerpo”
+🔢 Entrada: 15  
+📘 Término: Núcleos del Hipotálamo  
+🧠 Bloque: Neuroanatomía Funcional – Diencéfalo
+El **hipotálamo** es una estructura diencefálica fundamental para la **homeostasis corporal**, compuesta por diversos núcleos que regulan funciones viscerales, endocrinas, circadianas y emocionales. Se sitúa en la base del encéfalo, formando el suelo del III ventrículo, y está conectado con múltiples estructuras del SNC y del sistema neuroendocrino (especialmente la hipófisis).
+🏗️ Organización Anatómica:
+Los núcleos se agrupan topográficamente en tres columnas (anteroposterior) y tres zonas (mediolateral):
+### 🧭 Zonas topográficas (anteroposterior):
+1. **Región preóptica**  
+2. **Región anterior (supraóptica)**  
+3. **Región media (tuberal)**  
+4. **Región posterior (mamilar)**
+### 🔹 Núcleos representativos por región:
+| Región             | Núcleos Clave                             | Función principal                                               |
+|--------------------|-------------------------------------------|------------------------------------------------------------------|
+| **Preóptica**       | Preóptico lateral y medial                | Regulación de GnRH, control sexual                              |
+| **Anterior**        | Supraquiasmático, supraóptico, paraventricular | Ritmo circadiano (melatonina), regulación de ADH y oxitocina   |
+| **Media (tuberal)** | Arqueado, ventromedial, dorsomedial      | Hambre/saciedad, secreción de hormonas hipofisarias            |
+| **Posterior**       | Mamilares, posterior                     | Termorregulación, memoria (vía mamilotalámica), activación simpática |
+🧪 Funciones Hipotalámicas Clave:
+- Regulación **neuroendocrina** (eje hipotálamo-hipófisis)
+- Control de la **temperatura corporal**
+- Regulación del **apetito** y la **saciedad**
+- Control del **ritmo circadiano**
+- **Comportamiento sexual**
+- **Memoria** (conexión con cuerpos mamilares y tálamo anterior)
+- Respuesta de **estrés** y funciones **autonómicas**
+📘 ❓ Pregunta tipo Consejo (examen 2024):
+> **¿A qué grupo pertenecen los núcleos preóptico, anterior y ventromedial del hipotálamo?**  
+A. Lateral  
+B. Medial  
+C. Periventricular  
+D. Paraventricular
+✅ **Respuesta Correcta:** B. Medial
+Los núcleos **preóptico, anterior y ventromedial** se localizan en la **zona medial** del hipotálamo. Esta zona media regula funciones viscerales y endocrinas como la secreción hormonal (GnRH, CRH), el control del comportamiento alimentario, la temperatura y el control parasimpático.
+📘 ❓ Otra pregunta frecuente:
+> **¿Cómo se conectan los núcleos del Rafe al hipotálamo?**  
+A. Haz corticoespinal  
+B. Haz hipotalámico longitudinal  
+C. Haz prosencefálico medial  
+D. Fibras ponto-cerebelosas
+✅ **Respuesta Correcta:** C. Haz prosencefálico medial
+El **haz prosencefálico medial** conecta estructuras del tronco encefálico como los **núcleos del Rafe** (productores de serotonina) con el **hipotálamo medial**, modulando respuestas autonómicas, emocionales y del sueño-vigilia.
+📚 Referencias Bibliográficas:
+- Kandel et al., *Principles of Neural Science*, 6ª Ed.  
+- Nolte, *Neuroanatomía para estudiantes de medicina*, 6ª Ed.  
+- Standring S. *Gray’s Anatomy*, 42ª Ed.  
+- Radiopaedia.org: [Hypothalamic nuclei](https://radiopaedia.org/articles/hypothalamic-nuclei)  
+- PubMed: PMID [15987644](https://pubmed.ncbi.nlm.nih.gov/15987644)
+Tema 01 – Neuroanatomía Funcional del SNC  
+Subtema: Diencéfalo – Núcleos hipotalámicos y funciones neuroendocrinas
+hipotálamo, núcleos hipotalámicos, zona medial, zona lateral, eje hipotalámico-hipofisario, ritmo circadiano, hormona antidiurética, memoria, cuerpos mamilares, CRH, GnRH
+"**HAMBRE** está en el núcleo **ventromedial**; si se lesiona = hiperfagia."  
+"**AGUA** se regula desde el **supraóptico** (ADH)."  
+"**LUZ** = **supraquiasmático** (reloj biológico del ritmo circadiano)."
+🔢 Entrada: 16  
+📘 Término: Núcleo Rojo y Vía Rubroespinal  
+🧠 Bloque: Neuroanatomía Funcional – Tronco encefálico y vías descendentes motoras
+El **núcleo rojo** es una estructura localizada en el **mesencéfalo**, dentro del tegmento del **mesencéfalo rostral**, de tonalidad rojiza por su alto contenido en hierro (hemoglobina y ferritina). Participa en la coordinación motora mediante la **vía rubroespinal**, que modula el tono muscular y los movimientos de las extremidades, particularmente en animales, con menor protagonismo en humanos.
+🏗️ Anatomía y conexiones:
+📍 **Ubicación:**  
+- Parte rostral del mesencéfalo (a nivel del colículo superior), medial al lemnisco medial y dorsal al fascículo longitudinal medial.
+🔄 **Aferencias principales:**  
+- **Corteza motora (áreas 4 y 6)** → porción magnocelular  
+- **Núcleo dentado del cerebelo (vía dentatorrúbrica)** → porción parvocelular  
+- **Ganglios basales** (modulación indirecta)
+🔁 **Eferencias principales:**  
+- **Vía rubroespinal** → desciende por el **cordón lateral contralateral** de la médula espinal (tras decusarse en el tegmento mesencefálico)  
+- Termina en **interneuronas espinales** (laminas V–VII de Rexed) influenciando neuronas motoras alfa y gamma, principalmente en miembros superiores.
+🧪 Función fisiológica:
+- Control del **tono muscular** de extremidades
+- Modulación de **movimientos finos de la extremidad superior**
+- Papel complementario al **tracto corticoespinal** en humanos (más relevante en animales)
+- Función compensatoria en lesiones de vía piramidal
+📘 ❓ Pregunta tipo Consejo:
+> **¿Cuál es la función de la vía rubroespinal?**  
+A. Extensora  
+B. Flexora  
+C. Sensitiva  
+D. Inhibidora cortical
+✅ **Respuesta Correcta:** B. Flexora
+La vía rubroespinal actúa principalmente sobre **grupos musculares flexores**, especialmente en el miembro superior. Su activación aumenta el tono flexor, mientras que inhibe extensores. Aunque en humanos está menos desarrollada, adquiere un papel compensatorio tras lesiones de la vía corticoespinal.
+- Nolte, *Neuroanatomía Humana*, 6ª Ed.  
+- Blumenfeld, *Neuroanatomía Clínica*, 2ª Ed.  
+- Radiopaedia: [Rubrospinal tract](https://radiopaedia.org/articles/rubrospinal-tract)  
+- PubMed: PMID [29583269](https://pubmed.ncbi.nlm.nih.gov/29583269)
+Tema 02 – Tracto corticoespinal y vías motoras extrapiramidales  
+Subtema: Tronco encefálico y núcleos motores descendentes
+núcleo rojo, rubroespinal, mesencéfalo, tracto motor, flexores, extrapiramidal, médula espinal, lámina de Rexed
+**Rojo → Rubro → Reflex flexor.**  
+Asocia el color rojo con activación y contracción muscular de **flexores** en extremidades.  
+Recordatorio: decusa en el mesencéfalo y desciende **contralateralmente**.
+🔢 Entrada: 17  
+📘 Término: Tracto Espinocerebeloso Anterior  
+🧠 Bloque: Neuroanatomía Funcional – Vías Ascendentes y Propiocepción Inconsciente  
+El **tracto espinocerebeloso anterior** (también conocido como **tracto de Gowers**) es una vía **ascendente** que lleva información **propioceptiva inconsciente** de los músculos y articulaciones del **tronco y extremidades inferiores** hacia el **cerebelo**, esencial para la **coordinación motora automática**.
+🏗️ Anatomía y trayecto:
+📍 **Origen:**  
+- Neuronas del **asta intermedia** y **asta anterior** de la **médula espinal**, especialmente entre los segmentos **L2–S2**  
+- Se considera una vía **de segundo orden**
+🔄 **Trayecto:**  
+- **Decusa** en el **comisura anterior** espinal  
+- Asciende por el **cordón lateral contralateral**
+- Entra al **cerebelo por el pedúnculo cerebeloso superior**, **decusando nuevamente** dentro del cerebelo para proyectarse **ipsilateralmente** respecto al lado original del estímulo
+📥 **Destino final:**  
+- Corteza del **lóbulo anterior del cerebelo**, principalmente la **vermis**
+- Transmite información sobre:
+  - Tensión muscular
+  - Contracción y elongación
+  - Posición de articulaciones  
+- Se considera parte del sistema de **propiocepción inconsciente**
+- Participa en el ajuste postural y la coordinación del movimiento voluntario
+❓ **Pregunta tipo Consejo real**  
+> ¿Por dónde pasa el tracto espinocerebeloso anterior?  
+A. Pedúnculo cerebeloso inferior  
+B. Pedúnculo cerebeloso medio  
+C. Pedúnculo cerebeloso superior  
+D. Brazo conjuntival inferior  
+✅ **Respuesta correcta:** C. Pedúnculo cerebeloso superior
+Aunque muchos tractos cerebelosos entran al cerebelo por el **pedúnculo inferior** (como el espinocerebeloso posterior), el tracto **espinocerebeloso anterior es la excepción**: **entra por el pedúnculo cerebeloso superior**, tras haber decusado dos veces. Su entrada por este pedúnculo lo convierte en una vía clave para examinar en cortes transversales del mesencéfalo.
+- Nolte J. *The Human Brain*, 7th Ed.  
+- Kandel ER. *Principles of Neural Science*, 6th Ed.  
+- Blumenfeld H. *Neuroanatomía Clínica*, 2ª Ed.  
+- Radiopaedia: [Anterior spinocerebellar tract](https://radiopaedia.org/articles/anterior-spinocerebellar-tract)  
+- PubMed PMID: [34748591](https://pubmed.ncbi.nlm.nih.gov/34748591)
+Tema 03 – Neuroanatomía funcional de vías ascendentes y cerebelo  
+Subtema: Propiocepción inconsciente y coordinación motora automática  
+espinocerebeloso anterior, tracto de Gowers, pedúnculo cerebeloso superior, propiocepción inconsciente, coordinación motora, cerebelo, decusación doble
+**“Gowers va arriba”**  
+Recuerda que el **tracto de Gowers = espinocerebeloso anterior** entra por el **pedúnculo superior**, a diferencia del tracto posterior que entra por el inferior.  
+🎯 **“Anterior = Superior (entrada), Posterior = Inferior”**
+🔢 Entrada: 18  
+📘 Término: Tracto Espinocerebeloso Posterior (de Flechsig)  
+🧠 Bloque: Neuroanatomía Funcional – Vías Ascendentes y Propiocepción Inconsciente
+El **tracto espinocerebeloso posterior** (también llamado **de Flechsig**) es una vía **ascendente** que lleva información **propioceptiva inconsciente** desde el **tronco y extremidades inferiores** hacia el **cerebelo ipsilateral**, sin decusarse.
+- Neuronas del **núcleo dorsal de Clarke** (también llamado **columna de Clarke**, presente en segmentos **T1–L2** de la médula espinal)
+- También recibe aferencias de husos musculares y órganos tendinosos de Golgi
+- Asciende por el **cordón lateral ipsilateral** de la médula espinal  
+- Entra al **cerebelo a través del pedúnculo cerebeloso inferior**
+- Corteza cerebelosa del **lóbulo anterior y vermis**, implicada en la coordinación postural y locomotora
+  - **Posición y tensión** de músculos y articulaciones (propiocepción inconsciente)
+  - Coordinación motora de **extremidades inferiores y tronco**
+- Forma parte del sistema de retroalimentación para el **control automático del movimiento**
+> ¿Qué estructura conecta al tracto espinocerebeloso posterior con el cerebelo?  
+A. Pedúnculo cerebeloso superior  
+C. Pedúnculo cerebeloso inferior  
+D. Lemnisco lateral  
+✅ **Respuesta correcta:** C. Pedúnculo cerebeloso inferior
+El tracto espinocerebeloso posterior asciende **sin decusarse** y entra directamente al cerebelo por el **pedúnculo cerebeloso inferior**, que conecta el bulbo raquídeo con el cerebelo. Este trayecto permite la transmisión rápida y precisa de información sensitiva inconsciente relacionada con la **postura y movimiento de las extremidades inferiores**. La entrada por el pedúnculo inferior lo diferencia del tracto espinocerebeloso anterior (que decusa dos veces y entra por el superior).
+- Radiopaedia: [Posterior spinocerebellar tract](https://radiopaedia.org/articles/posterior-spinocerebellar-tract)  
+- PubMed PMID: [28115967](https://pubmed.ncbi.nlm.nih.gov/28115967)
+Tema 03 – Neuroanatomía funcional: Vías ascendentes y cerebelo  
+Subtema: Propiocepción inconsciente, cerebelo y sus conexiones
+espinocerebeloso posterior, de Flechsig, propiocepción inconsciente, columna de Clarke, pedúnculo cerebeloso inferior, cerebelo ipsilateral
+**“Flechsig va por el inferior”**  
+Recuerda que el **tracto de Flechsig (espinocerebeloso posterior)** entra al cerebelo por el **pedúnculo inferior**, **sin cruzarse**, y se origina del **núcleo de Clarke**.  
+🎯 "Flechsig = Inferior = Ipsilateral"
+🔢 Entrada: 19  
+📘 Término: Columna de Clarke (Núcleo Dorsal Torácico)  
+🧠 Bloque: Neuroanatomía Funcional – Núcleos Medulares y Vías Propioceptivas
+La **columna de Clarke**, también conocida como **núcleo dorsal torácico**, es un agrupamiento de **neuronas de relevo** ubicadas en la sustancia gris medular de los segmentos **T1 a L2**, que forma parte fundamental del **sistema propioceptivo inconsciente**. Es la **primera sinapsis central** de las fibras aferentes que llevan información sensorial profunda hacia el cerebelo.
+📍 Localización anatómica:
+- Situada en la **lámina VII de Rexed**, en la **región medial del asta dorsal** de la médula espinal
+- Se encuentra únicamente entre los **segmentos T1 a L2/L3**
+- Es visible macroscópicamente como un engrosamiento en la sustancia gris torácica
+🔄 Conexiones:
+- **Aferencias:**
+  - Fibras propioceptivas primarias (Ia y Ib) provenientes de:
+    - Husos neuromusculares
+    - Órganos tendinosos de Golgi
+    - Receptores articulares
+- **Eferencias:**
+  - Forman el **tracto espinocerebeloso posterior (de Flechsig)**
+  - Ascienden ipsilateralmente hasta el **cerebelo**, entrando por el **pedúnculo cerebeloso inferior**
+🔬 Función fisiológica:
+- Integra y retransmite información propioceptiva inconsciente desde el tronco y extremidades inferiores
+- Permite la **coordinación automática** de la postura y el movimiento sin necesidad de conciencia cortical
+- Participa en el control fino de la **locomoción y equilibrio**
+❓ Pregunta tipo Consejo real  
+> ¿Dónde se localiza el núcleo de origen del tracto espinocerebeloso posterior?  
+A. Sustancia de Lissauer  
+B. Sustancia gelatinosa de Rolando  
+C. Columna de Clarke  
+D. Núcleo accesorio de Bechterew  
+✅ **Respuesta correcta:** C. Columna de Clarke
+El tracto espinocerebeloso posterior se origina directamente de las neuronas del **núcleo dorsal torácico**, conocido como **columna de Clarke**, que se encuentra específicamente entre T1 y L2. Su función es retransmitir la información propioceptiva hacia el cerebelo **sin decusarse**, por el pedúnculo cerebeloso inferior. Esta vía es esencial para el control motor inconsciente.
+- Snell RS. *Neuroanatomía Clínica*, 8ª Ed.  
+- Nolte J. *The Human Brain*, 7ª Ed.  
+- Kandel ER. *Principles of Neural Science*, 6ª Ed.  
+- PubMed PMID: [26872504](https://pubmed.ncbi.nlm.nih.gov/26872504)
+Tema 03 – Neuroanatomía funcional  
+Subtema: Vías propioceptivas, tractos espinocerebelosos, núcleos medulares
+columna de Clarke, núcleo dorsal torácico, tracto espinocerebeloso posterior, husos musculares, propiocepción inconsciente, médula T1–L2
+📍**“Clarke está entre T1 y L2, y siempre va para el cerebelo sin cruzar”**  
+📍 El **Flechsig** nace de Clarke. **T1–L2**, ipsilateral, pedúnculo inferior.  
+🎯 Clarke es el núcleo que debes recordar cada vez que oigas **propiocepción inconsciente de las piernas**.
+🔢 Entrada: 20  
+📘 Término: Núcleo Dentado del Cerebelo  
+🧠 Bloque: Neuroanatomía Funcional – Núcleos Cerebelosos Profundos
+El **núcleo dentado** es el mayor y más lateral de los **núcleos cerebelosos profundos**. Tiene una forma ondulada o "dentada" característica y se encuentra en la **sustancia blanca** del hemisferio cerebeloso, justo por fuera del núcleo emboliforme. Su principal función es **coordinar la planificación, iniciación y precisión del movimiento voluntario**, especialmente el relacionado con las **extremidades**.
+🏗️ Organización anatómica:
+- Forma parte de los **cuatro núcleos profundos cerebelosos**:
+  1. Fastigio (medial)
+  2. Globoso
+  3. Emboliforme
+  4. Dentado (lateral)
+- Está especialmente desarrollado en primates y humanos por su relación con la **corteza cerebelosa lateral (neocerebelo)**.
+🔄 Conexiones funcionales:
+- **Aferencias principales:**
+  - Fibras inhibidoras **GABAérgicas** de las **células de Purkinje** del neocerebelo (zona lateral hemisférica)
+  - Fibras excitatorias **glutamatérgicas** del núcleo olivar inferior y corteza pontina (vía pontocerebelosa)
+- **Eferencias principales:**
+  - Salen por el **pedúnculo cerebeloso superior**  
+  - Hacen relevo en el **núcleo rojo contralateral** (vía dentatorubral)  
+  - O proyectan al **tálamo ventrolateral** (vía dentatotalámica) → corteza motora → **bucle cerebro-cerebeloso**
+⚙️ Funciones clave:
+- **Coordinación precisa de los movimientos voluntarios**
+- **Planificación motora** en conjunción con la corteza cerebral
+- Participación en la **adaptación motora y aprendizaje**
+❓ Pregunta tipo Consejo  
+> ¿Qué núcleo profundo del cerebelo proyecta fibras que hacen relevo en el núcleo rojo contralateral y luego alcanzan la corteza motora a través del tálamo?  
+A. Núcleo fastigial  
+B. Núcleo globoso  
+C. Núcleo emboliforme  
+D. Núcleo dentado  
+✅ **Respuesta correcta:** D. Núcleo dentado
+El núcleo dentado es el más grande y lateral de los núcleos cerebelosos profundos. Es el principal centro de salida del **neocerebelo** y participa en el **bucle dentado-rubro-talámico-cortical**. Las fibras cruzan al núcleo rojo contralateral y luego al tálamo (núcleo ventrolateral) para alcanzar la corteza motora, cerrando el circuito de retroalimentación con la corteza cerebral. Este circuito es esencial para la **precisión del movimiento voluntario**.
+- Haines DE. *Neuroanatomy: An Atlas of Structures, Sections, and Systems*, 9ª Ed.  
+- PubMed: [PMID: 31232107](https://pubmed.ncbi.nlm.nih.gov/31232107)
+Tema 03 – Neuroanatomía Funcional  
+Subtema: Núcleos del cerebelo, vías cerebelosas e integración motora
+núcleo dentado, cerebelo, vía dentatotalámica, vía dentatorubral, coordinación motora, pedúnculo superior, neocerebelo
+🧠 Recuerda el patrón “**DEFG**” para los núcleos cerebelosos (Dentado, Emboliforme, Fastigial, Globoso)  
+🎯 Si preguntan por el núcleo cerebeloso relacionado con la **planificación motora**, **núcleo rojo**, o la **corteza motora**, la respuesta es siempre **Dentado**
+🔢 Entrada: 21  
+📘 Término: Tracto Rubro-Olivar (Tracto Central Tegmental)  
+🧠 Bloque: Neuroanatomía Funcional – Vías Extrapiramidales y Circuitos Cerebelosos
+El **tracto rubro-olivar**, también conocido como parte del **tracto central tegmental**, es una vía **extrapiramidal indirecta** que conecta el **núcleo rojo** con el **núcleo olivar inferior** del bulbo raquídeo. Forma parte del circuito **dento-rubro-olivo-cerebeloso**, implicado en la **modulación de la actividad motora fina**, el **aprendizaje motor** y la **plasticidad sináptica cerebelosa**.
+🔄 Conexiones anatómicas y funcionales:
+- **Origen**:  
+  - Núcleo rojo (región parvocelular, mesencéfalo)
+- **Trayecto**:  
+  - Desciende ipsilateralmente a través del **tegmento pontino y bulbar**  
+  - Forma parte del **tracto central tegmental**
+- **Destino**:  
+  - Núcleo olivar inferior ipsilateral
+- **Función**:  
+  - Retroalimenta el cerebelo a través de las **fibras olivocerebelosas** (que cruzan al hemisferio cerebeloso contralateral a través del **pedúnculo cerebeloso inferior**)
+📈 Funciones clave:
+- Aprendizaje motor y memoria motora (plasticidad sináptica dependiente de error)  
+- Coordinación de movimientos voluntarios complejos  
+- Integración del **sistema extrapiramidal con el cerebelo**
+- Lesiones en esta vía se han asociado con **mioclonía palatal**, como manifestación de la degeneración del circuito dentato-rubro-olivar (síndrome de Guillain–Mollaret)  
+- Disfunciones del aprendizaje motor y desincronización motora
+> Mujer de 67 años con antecedentes de EVC hace 4 meses, presenta mioclonía palatina. ¿Dónde se localiza la lesión?  
+A. Núcleo ambiguo  
+B. Tracto tectoespinal  
+C. Tracto rubroolivar / tracto central tegmental  
+✅ **Respuesta correcta:** C. Tracto rubroolivar / Tracto central tegmental
+La **mioclonía palatina** es un signo característico de la **degeneración del triángulo de Guillain–Mollaret**, un circuito formado por el **núcleo dentado (cerebelo)** → **núcleo rojo (mesencéfalo)** → **núcleo olivar inferior (bulbo raquídeo)** → cerebelo nuevamente. Este circuito se interconecta a través del **tracto central tegmental** o rubro-olivar, cuya lesión o interrupción produce movimientos rítmicos involuntarios palatales. Este tipo de preguntas ya ha aparecido en exámenes anteriores.
+- PubMed: [PMID: 25910592](https://pubmed.ncbi.nlm.nih.gov/25910592)  
+- Radiopaedia – [Guillain–Mollaret triangle](https://radiopaedia.org/articles/guillain-mollaret-triangle)
+Subtema: Vías cerebelosas, núcleos rojos, núcleos olivares, aprendizaje motor
+tracto rubro-olivar, tracto central tegmental, núcleo rojo, núcleo olivar inferior, cerebelo, mioclonía palatina, Guillain-Mollaret
+🧠 Si en la pregunta aparece **mioclonía palatina**, **Guillain–Mollaret**, o lesión cerebelosa con síntomas rítmicos, piensa automáticamente en el **tracto central tegmental**  
+🎯 Recuerda el **circuito dentado → rojo → olivar → cerebelo**: es un **bucle de corrección motora y aprendizaje**.
+🔢 Entrada: 22  
+📘 Término: Núcleo Olivar Inferior  
+🧠 Bloque: Neuroanatomía Funcional – Núcleos Bulbares y Circuitos Cerebelosos
+El **núcleo olivar inferior** (NOI) es una prominente estructura en el bulbo raquídeo que forma parte esencial del sistema de **aprendizaje motor cerebeloso**. Es el **principal origen de las fibras trepadoras** (**climbing fibers**) que establecen conexiones excitatorias directas con las **células de Purkinje** en la corteza cerebelosa. Su función está ligada al **procesamiento del error motor** y la coordinación de movimientos complejos.
+🧩 Anatomía funcional:
+- 📍 **Ubicación**: bulbo raquídeo, lateral a las pirámides bulbares  
+- 🔄 **Aferencias**:
+  - Corteza motora (a través del núcleo rojo → tracto rubro-olivar)
+  - Médula espinal (información propioceptiva indirecta)
+  - Núcleo dentado del cerebelo (vía tracto dentato-olivar)
+- 🚀 **Eferencias**:
+  - Haces olivocerebelosos → cruzan la línea media → entran al **pedúnculo cerebeloso inferior contralateral**  
+  - Terminan como **fibras trepadoras** en la **corteza cerebelosa**
+- Aprendizaje motor y plasticidad sináptica  
+- Codificación del error motor (se activa cuando un movimiento no sale como se planeó)  
+- Estabilización de movimientos finos y complejos  
+- Participación en la sincronización de oscilaciones cerebelosas  
+- Degeneración del NOI causa **mioclonía palatina** como parte del **síndrome de Guillain–Mollaret**  
+- Lesiones bilaterales producen alteraciones graves en el **aprendizaje motor**, pero no necesariamente parálisis
+❓ Pregunta tipo Consejo (basado en lo que ya se preguntó):  
+> Mujer de 67 años con mioclonía palatina posterior a un EVC. ¿Qué estructura está afectada como parte del circuito de Guillain–Mollaret?  
+B. Núcleo olivar inferior  
+C. Lemnisco medial  
+D. Núcleo coclear  
+✅ **Respuesta Correcta:** B. Núcleo olivar inferior
+El núcleo olivar inferior forma parte del **triángulo de Guillain–Mollaret**, que también incluye al **núcleo dentado del cerebelo** y al **núcleo rojo**. Está implicado en el procesamiento del error motor a través de su conexión con el cerebelo vía **fibras trepadoras**, fundamentales para la modulación de las células de Purkinje. Su disfunción puede provocar **mioclonías rítmicas**, siendo la palatina la más representativa.
+- Nolte, *The Human Brain*, 7ª Ed.  
+- Radiopaedia – [Guillain–Mollaret triangle](https://radiopaedia.org/articles/guillain-mollaret-triangle)  
+- PubMed ID: [25910592](https://pubmed.ncbi.nlm.nih.gov/25910592/)
+Tema 03 – Neuroanatomía funcional del SNC  
+Subtema: Núcleos bulbares y cerebelosos, aprendizaje motor
+núcleo olivar inferior, fibras trepadoras, cerebelo, aprendizaje motor, circuito dentato-rubro-olivar, Guillain–Mollaret, mioclonía palatina
+📌 Recuerda que el **núcleo olivar inferior** → **fibras trepadoras** → **Purkinje**, es sinónimo de **aprendizaje motor dependiente del error**  
+📍 Si aparece "mioclonía palatina", "aprendizaje motor", o "fibras trepadoras", piensa en el NOI.
+🔢 Entrada: 23  
+📘 Término: Fibras Trepadoras (Climbing Fibers)  
+🧠 Bloque: Neuroanatomía Funcional – Circuitos Cerebelosos y Plasticidad Motora
+Las **fibras trepadoras** (climbing fibers) son fibras aferentes **exclusivas del núcleo olivar inferior contralateral** que ascienden por el **pedúnculo cerebeloso inferior** hasta alcanzar la **corteza cerebelosa**, donde **establecen conexiones excitatorias directas con células de Purkinje**. Son esenciales para el **aprendizaje motor, la modulación sináptica y el control preciso del movimiento**.
+🧩 Trayecto anatómico:
+1. **Origen**: Núcleo olivar inferior (bulbo contralateral)  
+2. **Paso**: Cruzan la línea media → pedúnculo cerebeloso inferior (cuerpo restiforme)  
+3. **Destino**: Arborización en la **capa molecular de la corteza cerebelosa**, donde **contactan 1:1 con una sola célula de Purkinje**, pero con múltiples sinapsis potentes  
+4. Cada fibra trepadora puede formar **300–500 sinapsis con una misma célula de Purkinje**, generando una **potente despolarización** llamada **"complejo de espigas"**
+⚙️ Funciones fisiológicas clave:
+- Codifican **errores motores** detectados en tiempo real  
+- Desencadenan cambios de plasticidad sináptica (LTD: **depresión a largo plazo**) en las fibras paralelas  
+- Activan el aprendizaje de nuevos patrones motores  
+- Están implicadas en la **generación del timing** y ajuste fino de la ejecución motora
+- Lesiones del sistema olivo-cerebeloso afectan el **aprendizaje motor adaptativo** (ej: marcha, coordinación visomotora)  
+- Disfunción → ataxia, dismetría, movimientos incoordinados  
+- En el **síndrome de Guillain–Mollaret**, las fibras trepadoras están involucradas indirectamente a través de la degeneración del NOI
+❓ Pregunta tipo Consejo (ya preguntada en examen previo):  
+> ¿Cuál es el neurotransmisor principal de las fibras trepadoras?  
+A. Glutamato  
+B. GABA  
+C. Acetilcolina  
+D. Sustancia P  
+✅ **Respuesta Correcta:** A. Glutamato  
+Las **fibras trepadoras** utilizan **glutamato** como neurotransmisor excitatorio principal. Su liberación provoca una **despolarización prolongada** en la célula de Purkinje, modulando su respuesta a estímulos posteriores y facilitando la plasticidad sináptica. Esta propiedad es esencial para la **modulación del movimiento y la corrección de errores** durante la actividad motora voluntaria.
+- Haines, *Neuroanatomy*, 9ª Ed.  
+- PubMed ID: [20817168](https://pubmed.ncbi.nlm.nih.gov/20817168)  
+- Radiopaedia – *Climbing fibers*
+Subtema: Circuitos cerebelosos, fibras aferentes, neurotransmisores  
+fibras trepadoras, glutamato, núcleo olivar inferior, aprendizaje motor, cerebelo, Purkinje, error motor, LTD, despolarización compleja
+🧠 “Trepan” desde el **núcleo olivar inferior** hasta la **célula de Purkinje**  
+🎯 Glutamato = excitador = corrección de error → aprendizaje  
+Si ves “glutamato + Purkinje + aprendizaje motor”, ¡respuesta correcta!
+🔢 Entrada: 24  
+📘 Término: Fibras Musgosas  
+🧠 Bloque: Neuroanatomía Funcional del Cerebelo
+Las **fibras musgosas** (mossy fibers) son uno de los dos tipos principales de **aferencias excitatorias** a la **corteza cerebelosa**, junto con las fibras trepadoras. Se caracterizan por su trayecto ramificado, la formación de glomérulos sinápticos en la **capa granulosa**, y su sinapsis sobre **células granulares**.
+🧠 Origen anatómico:
+Las fibras musgosas provienen de múltiples núcleos del sistema nervioso central:
+- **Tractos espinocerebelosos (posterior y anterior)**
+- **Núcleos pontinos** (vía cortico-ponto-cerebelosa)
+- **Núcleo vestibular**
+- **Núcleo reticular**
+- **Columna de Clarke**
+- **Médula espinal y bulbo raquídeo**
+🚧 Ruta:
+1. Las fibras entran al **cerebelo** a través de los **pedúnculos cerebelosos (inferior y medio principalmente)**
+2. Hacen sinapsis en la **capa granulosa** con las **células granulares**
+3. Las **células granulares** envían sus axones a través de las **fibras paralelas**, que se ramifican en la **capa molecular** y sinaptan con **células de Purkinje**
+⚙️ Neurotransmisor:
+- **Glutamato (excitador)**
+🔬 Función:
+- Transmiten información **sensorial** (propiocepción, tacto, equilibrio) y **motriz cortical indirecta**
+- Proporcionan el **“contexto general”** del estado corporal y ambiental al cerebelo
+- Participan en el control del tono muscular, coordinación, postura y aprendizaje motor
+📉 Alteraciones clínicas:
+- Disfunción en la vía de fibras musgosas → **ataxia**, **hipotonía**, **trastornos del equilibrio**
+- Pueden estar implicadas en **ataxias hereditarias** y **síndromes de disfunción cerebelosa sensitiva**
+- Kandel et al., *Principles of Neural Science*, 6th Ed.  
+- Nolte, *The Human Brain: An Introduction to its Functional Anatomy*, 7th Ed.  
+- Radiopaedia: https://radiopaedia.org/articles/cerebellar-afferents  
+- Gray’s Anatomy, 42nd Ed.
+Tema 05 – Neuroanatomía funcional del cerebelo  
+Subtema: Aferencias cerebelosas / organización de la corteza cerebelosa
+**Recuerda que las fibras musgosas → células granulares → fibras paralelas → células de Purkinje.**  
+Las **trepadoras** hacen sinapsis directa con las células de Purkinje, mientras que las **musgosas** no.
+📝 Pregunta tipo Consejo (ya ha salido en años anteriores):
+**¿Qué tipo de fibra hace sinapsis en las células granulares del cerebelo?**  
+A. Fibras musgosas  
+B. Fibras trepadoras  
+C. Fibras paralelas  
+D. Axones de Purkinje  
+✅ **Respuesta correcta:** A. Fibras musgosas
+🧬 Justificación:
+Las fibras musgosas forman sinapsis sobre glomérulos cerebelosos, donde activan células granulares. Estas, a su vez, transmiten señales a las células de Purkinje a través de sus axones (fibras paralelas), constituyendo una de las principales vías de procesamiento en el cerebelo.
+fibras musgosas, células granulares, cerebelo, tractos espinocerebelosos, glutamato, aprendizaje motor, glomérulos sinápticos
