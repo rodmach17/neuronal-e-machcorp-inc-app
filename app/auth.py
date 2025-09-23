@@ -1,1 +1,0 @@
-# Archivo intencionalmente vacío. Autenticación deshabilitada.

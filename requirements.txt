@@ -1,12 +1,4 @@
 fastapi
 uvicorn
-langchain==0.2.1
-langchain-community
-langchainhub
-langchain-openai
-faiss-cpu
-transformers
-torch
-huggingface_hub
 python-dotenv
-langchain-huggingface
+openai
